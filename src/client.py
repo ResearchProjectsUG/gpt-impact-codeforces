@@ -26,48 +26,60 @@ class CodeforcesClient:
             return None
 
 
-# ID of the Codeforces Round 943 (Div. 3)
-CONTEST_ID = 1968
+def process_contest_data(client: CodeforcesClient, contest_id: int):
+    """Process and save all relevant contest data."""
+    base_path = "data"
 
+    # Fetch contest standings
+    contest_standings_params = {
+        "contestId": contest_id,
+        "asManager": False,
+        "from": 1,
+        "count": 5,
+        "showUnofficial": False,
+    }
+    json_data = client.fetch_data(
+        "contest.standings",
+        contest_standings_params,
+    )
+    contest_info = json_data["result"]["contest"]
+    problems = json_data["result"]["problems"]
+
+    # Fetch user rated list
+    user_rated_list_params = {
+        "activeOnly": False,
+        "includeRetired": True,
+        "contestId": contest_id,
+    }
+    json_data = client.fetch_data("user.ratedList", user_rated_list_params)
+    users = json_data["result"]
+
+    # Fetch contest submissions
+    contest_submissions_params = {
+        "contestId": contest_id,
+        "asManager": False,
+        "from": 1,
+        "count": 10000000,
+        "lang": Language.ENGLISH,
+    }
+    json_data = client.fetch_data("contest.status", contest_submissions_params)
+    submissions = json_data["result"]
+    filtered_submissions = utils.filter_submissions(submissions)
+
+    # Save data to CSV
+    slug = utils.create_slug(contest_info["name"])
+    slug_folder = os.path.join(base_path, slug)
+    os.makedirs(slug_folder, exist_ok=True)  # Ensure the directory exists
+
+    utils.save_contest_data(slug_folder, contest_info)
+    utils.save_problems_data(slug_folder, problems)
+    utils.save_user_data(slug_folder, users)
+    utils.save_submissions_data(slug_folder, filtered_submissions)
+
+    print(f"Data has been saved in folder: {slug_folder}")
+
+
+# Usage
 client = CodeforcesClient()
-
-contest_submissions_params = {
-    "contestId": CONTEST_ID,
-    "asManager": False,
-    "from": 1,
-    "count": 10000000,
-    "lang": Language.ENGLISH,
-}
-
-contest_participants_params = {
-    "contestId": CONTEST_ID,
-    "activeOnly": False,
-    "includeRetired": False,
-    "lang": Language.ENGLISH,
-}
-
-contest_standings_params = {
-    "contestId": CONTEST_ID,
-    "asManager": False,
-    "from": 1,
-    "count": 5,
-    "showUnofficial": False,
-}
-
-
-# Process the data
-json_data = client.fetch_data("contest.standings", contest_standings_params)
-contest_info = json_data["result"]["contest"]
-problems = json_data["result"]["problems"]
-
-base_path = "data"
-slug = utils.create_slug(contest_info["name"])
-slug_folder = os.path.join(base_path, slug)
-
-# Create directory and save data to CSV
-utils.save_contest_data(slug, contest_info)
-utils.save_problems_data(slug, problems)
-print(f"Data has been saved in folder: {slug}")
-
-# TODO(Manuel): Analyze this with users
-# content = response.content.decode("utf-8")
+CONTEST_ID = 1968  # ID of the Codeforces Round 943 (Div. 3)
+process_contest_data(client, CONTEST_ID)
