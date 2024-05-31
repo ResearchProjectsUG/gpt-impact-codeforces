@@ -105,7 +105,7 @@ def save_problems_data(folder: str, problems: List[Dict]):
                 problem["index"],
                 problem["name"],
                 problem["type"],
-                problem["rating"],
+                problem.get("rating", ""),
             ]
 
             # Initialize tag columns to 0

@@ -90,7 +90,17 @@ def process_contest_data(client: CodeforcesClient, contest_id: int):
     print(f"Data has been saved in folder: {slug_folder}")
 
 
+def process_relevant_contests(client: CodeforcesClient):
+    """Fetches contests, filters, and processes relevant contests."""
+    response = client.fetch_data("contest.list", {"gym": False})
+    contests = response["result"]
+    relevant_keywords = ["Round", "Hello", "Good Bye"]
+
+    for contest in contests:
+        if any(keyword in contest["name"] for keyword in relevant_keywords) and contest["phase"] == "FINISHED":  # noqa
+            process_contest_data(client, contest["id"])
+
+
 # Usage
 client = CodeforcesClient()
-CONTEST_ID = 1968  # ID of the Codeforces Round 943 (Div. 3)
-process_contest_data(client, CONTEST_ID)
+process_relevant_contests(client)
