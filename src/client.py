@@ -1,5 +1,6 @@
 import os
 import requests
+import time
 import utils
 from config import settings
 from enums import Language
@@ -9,14 +10,25 @@ from typing import Dict, Any
 class CodeforcesClient:
     def __init__(self):
         self.base_url = settings.CODEFORCES_BASE_URL
+        self.last_request_time = None
+        self.request_interval = 2  # min interval between requests in seconds
 
     def build_url(self, resource: str) -> str:
         """Construct the full API endpoint URL."""
         return f"{self.base_url}/{resource}"
 
+    def wait_for_next_request(self):
+        """Ensure the requests are spaced out by at least `request_interval` seconds."""  # noqa
+        if self.last_request_time is not None:
+            elapsed_time = time.time() - self.last_request_time
+            if elapsed_time < self.request_interval:
+                time.sleep(self.request_interval - elapsed_time)
+        self.last_request_time = time.time()
+
     def fetch_data(self, endpoint: str, params: Dict[str, Any]) -> Any:
         """Generic method to fetch data from a given Codeforces API endpoint."""  # noqa
         url = self.build_url(endpoint)
+        self.wait_for_next_request()
         try:
             response = requests.get(url, params=params)
             response.raise_for_status()  # Raises a HTTPError for bad responses
@@ -28,7 +40,6 @@ class CodeforcesClient:
 
 def process_contest_data(client: CodeforcesClient, contest_id: int):
     """Process and save all relevant contest data."""
-    base_path = "data"
 
     # Fetch contest standings
     contest_standings_params = {
@@ -68,7 +79,7 @@ def process_contest_data(client: CodeforcesClient, contest_id: int):
 
     # Save data to CSV
     slug = utils.create_slug(contest_info["name"])
-    slug_folder = os.path.join(base_path, slug)
+    slug_folder = os.path.join(settings.BASE_DATA_PATH, slug)
     os.makedirs(slug_folder, exist_ok=True)  # Ensure the directory exists
 
     utils.save_contest_data(slug_folder, contest_info)
