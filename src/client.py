@@ -1,3 +1,4 @@
+import logging
 import os
 import requests
 import time
@@ -11,7 +12,8 @@ class CodeforcesClient:
     def __init__(self):
         self.base_url = settings.CODEFORCES_BASE_URL
         self.last_request_time = None
-        self.request_interval = 2  # min interval between requests in seconds
+        self.request_interval = 2  # Min interval between requests in seconds
+        self.max_retries = 3  # Max number of retries for a failed request
 
     def build_url(self, resource: str) -> str:
         """Construct the full API endpoint URL."""
@@ -29,13 +31,21 @@ class CodeforcesClient:
         """Generic method to fetch data from a given Codeforces API endpoint."""  # noqa
         url = self.build_url(endpoint)
         self.wait_for_next_request()
-        try:
-            response = requests.get(url, params=params)
-            response.raise_for_status()  # Raises a HTTPError for bad responses
-            return response.json()  # Assuming the API returns JSON data
-        except requests.RequestException as e:
-            print(f"An error occurred: {e}")
-            return None
+        attempt = 0
+        while attempt < self.max_retries:
+            try:
+                logging.info(f"Requesting URL {url} with params {params}")
+                response = requests.get(url, params=params)
+                response.raise_for_status()  # Raises an HTTP error for bad responses  # noqa
+                logging.info("Request successful.")
+                return response.json()  # Assuming the API returns JSON data
+            except requests.RequestException as e:
+                logging.error(f"Request failed: {e}")
+                attempt += 1
+                time.sleep(2)
+                if attempt == self.max_retries:
+                    logging.error("Maximum retry attempts reached, moving to next request")  # noqa
+        return None
 
 
 def process_contest_data(client: CodeforcesClient, contest_id: int):
@@ -87,7 +97,7 @@ def process_contest_data(client: CodeforcesClient, contest_id: int):
     utils.save_user_data(slug_folder, users)
     utils.save_submissions_data(slug_folder, filtered_submissions)
 
-    print(f"Data has been saved in folder: {slug_folder}")
+    print(f"Data has been saved in folder {slug_folder}")
 
 
 def process_relevant_contests(client: CodeforcesClient):
@@ -97,10 +107,9 @@ def process_relevant_contests(client: CodeforcesClient):
     relevant_keywords = ["Round", "Hello", "Good Bye"]
 
     for contest in contests:
-        if any(keyword in contest["name"] for keyword in relevant_keywords) and contest["phase"] == "FINISHED":  # noqa
+        if any(keyword in contest["name"] for keyword in relevant_keywords) and contest["phase"] == "FINISHED" and not os.path.exists(os.path.join(settings.BASE_DATA_PATH, utils.create_slug(contest["name"]))):  # noqa
             process_contest_data(client, contest["id"])
 
 
-# Usage
 client = CodeforcesClient()
 process_relevant_contests(client)
