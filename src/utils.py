@@ -192,3 +192,27 @@ def save_user_data(folder: str, users: List[Dict]):
                     user.get("organization", ""),
                 ]
             )
+
+
+def save_rating_changes_data(folder: str, rating_changes: List[Dict]):
+    """Save rating changes into a CSV file."""
+    filename = os.path.join(folder, "rating_changes.csv")
+    with open(filename, "w", newline="") as file:
+        writer = csv.writer(file)
+        writer.writerow(
+            [
+                "contest_id",
+                "handle",
+                "old_rating",
+                "new_rating",
+            ]
+        )
+        for rating_change in rating_changes:
+            writer.writerow(
+                [
+                    rating_change["contestId"],
+                    rating_change["handle"],
+                    rating_change["oldRating"],
+                    rating_change["newRating"],
+                ]
+            )
