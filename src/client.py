@@ -59,10 +59,15 @@ def process_contest_data(client: CodeforcesClient, contest_id: int):
         "count": 5,
         "showUnofficial": False,
     }
+
     json_data = client.fetch_data(
         "contest.standings",
         contest_standings_params,
     )
+
+    if json_data is None:
+        return
+
     contest_info = json_data["result"]["contest"]
     problems = json_data["result"]["problems"]
 
@@ -72,7 +77,12 @@ def process_contest_data(client: CodeforcesClient, contest_id: int):
         "includeRetired": True,
         "contestId": contest_id,
     }
+
     json_data = client.fetch_data("user.ratedList", user_rated_list_params)
+
+    if json_data is None:
+        return
+
     users = json_data["result"]
 
     # Fetch contest submissions
@@ -83,9 +93,25 @@ def process_contest_data(client: CodeforcesClient, contest_id: int):
         "count": 10000000,
         "lang": Language.ENGLISH,
     }
+
     json_data = client.fetch_data("contest.status", contest_submissions_params)
+
+    if json_data is None:
+        return
+
     submissions = json_data["result"]
     filtered_submissions = utils.filter_submissions(submissions)
+
+    contest_rating_changes_params = {
+        "contestId": contest_id,
+        "lang": Language.ENGLISH,
+    }
+    json_data = client.fetch_data("contest.ratingChanges", contest_rating_changes_params)  # noqa
+
+    if json_data is None:
+        return
+
+    rating_changes = json_data["result"]
 
     # Save data to CSV
     slug = utils.create_slug(contest_info["name"])
@@ -96,6 +122,7 @@ def process_contest_data(client: CodeforcesClient, contest_id: int):
     utils.save_problems_data(slug_folder, problems)
     utils.save_user_data(slug_folder, users)
     utils.save_submissions_data(slug_folder, filtered_submissions)
+    utils.save_rating_changes_data(slug_folder, rating_changes)
 
     print(f"Data has been saved in folder {slug_folder}")
 
@@ -107,7 +134,7 @@ def process_relevant_contests(client: CodeforcesClient):
     relevant_keywords = ["Round", "Hello", "Good Bye"]
 
     for contest in contests:
-        if any(keyword in contest["name"] for keyword in relevant_keywords) and contest["phase"] == "FINISHED" and not os.path.exists(os.path.join(settings.BASE_DATA_PATH, utils.create_slug(contest["name"]))):  # noqa
+        if any(keyword in contest["name"] for keyword in relevant_keywords) and contest["phase"] == "FINISHED" and contest["id"] != 1014 and contest["id"] != 925 and not os.path.exists(os.path.join(settings.BASE_DATA_PATH, utils.create_slug(contest["name"]))):  # noqa
             process_contest_data(client, contest["id"])
 
 
