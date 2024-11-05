@@ -1,0 +1,28 @@
+handle,first_name,last_name,country,city,rating,max_rating,rank,max_rank,organization
+tourist,Gennady,Korotkevich,Belarus,Gomel,3757,3979,legendary grandmaster,legendary grandmaster,ITMO University
+ecnerwala,Andrew,He,United States,Cupertino,3486,3668,legendary grandmaster,legendary grandmaster,MIT
+ksun48,Kevin,Sun,Canada,,3332,3654,legendary grandmaster,legendary grandmaster,MIT
+scott_wu,Scott,Wu,United States,San Francisco,3297,3350,legendary grandmaster,legendary grandmaster,USACO
+ACRush,Tiancheng,Lou,China,,3047,3047,legendary grandmaster,legendary grandmaster,Pony.ai
+LHiC,Mikhail,Ipatov,Russia,Moscow,3003,3355,legendary grandmaster,legendary grandmaster,pinely
+Errichto,Kamil,Debowski,Poland,Warsaw,2916,3053,international grandmaster,legendary grandmaster,Huawei
+RomaWhite,Roman,Bilyi,Ukraine,Lviv,2905,3053,international grandmaster,legendary grandmaster,Lviv NU
+neal,Neal,Wu,United States,,2855,3147,international grandmaster,legendary grandmaster,USACO
+Marcin_smu,Marcin,Smulewicz,Poland,Warsaw,2845,3126,international grandmaster,legendary grandmaster,University of Warsaw
+liympanda,Yiming,Li,China,Shanghai,2718,2790,international grandmaster,international grandmaster,Google
+Kostroma,Aleksandr,Ostanin,Netherlands,Amsterdam,2700,3024,international grandmaster,legendary grandmaster,pinely
+matthew99,Xiao,Mao,,,2678,3100,international grandmaster,legendary grandmaster,MIT
+ilyakor,Ilya,Kornakov,Switzerland,Zurich,2655,2831,international grandmaster,international grandmaster,Google
+desert97,Yang,Liu,United States,St Louis,2629,2715,international grandmaster,international grandmaster,Stanford ACM
+Arterm,Artsem,Zhuk,Belarus,Minsk,2597,2859,grandmaster,international grandmaster,Moscow IPT
+zxqfl,Jacob,Jackson,United States,San Francisco,2575,2818,grandmaster,international grandmaster,OpenAI
+LiChenKoh,Li Chen,Koh,Singapore,Singapore,2457,2457,grandmaster,grandmaster,
+Fdg,Dmytro,Ihnatenko,Ukraine,Kyiv,2432,2665,grandmaster,international grandmaster,Google
+fmqjpt,,,,,2431,2574,grandmaster,grandmaster,MIT
+xiaowuc1,,,United States,San Francisco,2427,2656,grandmaster,international grandmaster,koosaga fan club
+waterfall,Daniel,Chiu,United States,,2376,2376,international master,international master,USACO
+azneyes,Andy,Huang,Canada,,2281,2394,master,international master,Google
+chenmark,Mark,Chen,United States,,2245,2290,master,master,USACO
+liymbear,Yang,Xiao,United States,Sunnyvale,2219,2379,master,international master,Google
+KADR,Iaroslav,Tverdokhlib,Ukraine,Kyiv,2203,2767,master,international grandmaster,Facebook
+balakrishnan,Balakrishnan,Varadarajan,United States,Sunnyvale,1963,2274,candidate master,master,

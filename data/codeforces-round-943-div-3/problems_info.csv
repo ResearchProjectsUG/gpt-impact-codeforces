@@ -1,9 +1,0 @@
-index,name,type,rating,tags
-A,Maximize?,PROGRAMMING,800,"brute force,math,number theory"
-B,Prefiquence,PROGRAMMING,800,"greedy,two pointers"
-C,Assembly via Remainders,PROGRAMMING,1000,"constructive algorithms,number theory"
-D,Permutation Game,PROGRAMMING,1300,"brute force,dfs and similar,games,graphs,greedy,math"
-E,Cells Arrangement,PROGRAMMING,1600,constructive algorithms
-F,Equal XOR Segments,PROGRAMMING,1800,"binary search,data structures"
-G1,Division + LCP (easy version),PROGRAMMING,1900,"binary search,data structures,dp,hashing,string suffix structures,strings"
-G2,Division + LCP (hard version),PROGRAMMING,2200,"binary search,brute force,data structures,dp,hashing,math,string suffix structures,strings"

@@ -1,0 +1,43 @@
+handle,first_name,last_name,country,city,rating,max_rating,rank,max_rank,organization
+ecnerwala,Andrew,He,United States,Cupertino,3486,3668,legendary grandmaster,legendary grandmaster,MIT
+scott_wu,Scott,Wu,United States,San Francisco,3297,3350,legendary grandmaster,legendary grandmaster,USACO
+ACRush,Tiancheng,Lou,China,,3047,3047,legendary grandmaster,legendary grandmaster,Pony.ai
+Zlobober,Maxim,Akhmedov,Russia,Moscow,2996,3026,international grandmaster,legendary grandmaster,Moscow State University
+Alex_2oo8,Aleksejs,Zajakins,Latvia,Riga,2944,2944,international grandmaster,international grandmaster,Progmeistars
+-XraY-,Igor,Pyshkin,Russia,Saint Petersburg,2867,3170,international grandmaster,legendary grandmaster,
+ikatanic,Ivan,Katanic,Croatia,,2731,2964,international grandmaster,international grandmaster,
+winger,Vladislav,Isenbaev,United States,Mountain View,2697,2697,international grandmaster,international grandmaster,Nuro.AI
+voover,Maciej,Wawro,Poland,Krakow,2645,2741,international grandmaster,international grandmaster,
+stevenkplus,Steven,Hao,United States,San Jose,2585,2874,grandmaster,international grandmaster,MIT
+vladi,,,,,2523,2523,grandmaster,grandmaster,
+xiaowuc1,,,United States,San Francisco,2427,2656,grandmaster,international grandmaster,koosaga fan club
+RAD,Artem,Rakhov,Russia,Saratov,2426,2734,grandmaster,international grandmaster,Google
+Igor_Kudryashov,Igor,Kudryashov,Russia,Saratov,2376,2406,international master,grandmaster,Google
+eduardische,Eduard,Kalinicenko,Latvia,Riga,2368,2400,international master,grandmaster,University of Cambridge
+yummy,Alexander,Wei,United States,Cambridge,2282,2373,master,international master,Harvard University
+Kenny_HORROR,Andrey,Malevich,Belarus,Minsk,2258,2438,master,grandmaster,Facebook
+yarrr,Aleksei,Safronov,Russia,Moscow,2195,2487,master,grandmaster,
+jonathanpaulson,Jonathan,Paulson,United States,New York,2146,2348,master,international master,USACO
+mr146,Den,Mukhametianov,Russia,Yekaterinburg,2118,2210,master,master,JetBrains
+zcg.cs60,Chenguang,Zhu,United States,,2100,2409,master,grandmaster,Microsoft
+jma127,Jerry,Ma,United States,West Lafayette,2096,2129,candidate master,master,Facebook AI Research
+rminuv372,zhenyang,dai,China,Beijing,2069,2222,candidate master,master,ACM_DIY
+Khongor,Khongor,Enkhbold,Mongolia,Ulan Bator,2060,2163,candidate master,master,Stripe
+SnapDragon,,,,,2039,2039,candidate master,candidate master,
+gojira,Eldar,Bogdanov,Georgia,Tbilisi,2008,2390,candidate master,international master,Asana
+dojiboy9,Deon,Nicholas,Canada,Waterloo,1984,2396,candidate master,international master,University of Waterloo
+Goofy57,Sergey,Volnov,Russia,Moscow,1981,2231,candidate master,master,Google
+Alexus,Alexey,Samsonov,United States,Sunnyvale,1967,2169,candidate master,master,Google
+ralekseenkov,Roman,A,,,1966,2015,candidate master,candidate master,
+srnth,Sreenath,Are,United States,New York,1966,1987,candidate master,candidate master,Addepar
+Abra,Andrey,Anurin,Russia,Samara,1962,2151,candidate master,master,
+vsb,Viktor,Barinov,United States,Sunnyvale,1959,2248,candidate master,master,Lyft
+tloinuy,Tony,Liu,United States,,1953,2281,candidate master,master,
+AnnKats93,Ann,Kats,Ukraine,Odesa,1948,2173,candidate master,master,Odessa NU
+Anarivu,Sofiya,Kats,Ukraine,Odesa,1937,2184,candidate master,master,Odessa NU
+balakrishnan,Balakrishnan,Varadarajan,United States,Sunnyvale,1929,2274,candidate master,master,
+groupbuilder,Jack,Chen,United States,Fremont,1923,1923,candidate master,candidate master,Rocket Fuel
+FreezingCool,Nikola,Stojiljkovic,Serbia,,1889,1964,expert,candidate master,"RAF, Belgrade"
+choice,,,Antarctica,McMurdo Station,1817,2175,expert,master,
+Final.Fantasy15,,,,,1668,1880,expert,expert,
+vlady,Vlad,Dumitriu,United States,,1421,2110,specialist,master,Google

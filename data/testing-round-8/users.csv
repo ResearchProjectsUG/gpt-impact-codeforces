@@ -1,0 +1,62 @@
+handle,first_name,last_name,country,city,rating,max_rating,rank,max_rank,organization
+dreamoon_love_AA,Huang,I-Wen,Taiwan,Taipei,2633,3002,international grandmaster,legendary grandmaster,AACPSCHOOL
+M.Mahdi,Mohammad Mahdi,Shokri,Iran,Tehran,2466,2491,grandmaster,grandmaster,Quera
+Gassa,Ivan,Kazmenko,Russia,Saint Petersburg,2438,2616,grandmaster,international grandmaster,Saint-Petersburg SU
+Monyura,Yurii,Monastyrshyn,Ukraine,Odesa,2436,2436,grandmaster,grandmaster,Snap Inc.
+JeBeK,peyman,jabbarzade,Iran,Mashhad,2371,2555,international master,grandmaster,Sharif FUT
+riadwaw,Alexey,Dmitriev,Antarctica,McMurdo Station,2345,2996,international master,international grandmaster,pinely
+mmaxio,Mikhail,Mayorov,Russia,Perm,2343,2850,international master,international grandmaster,
+SteamTurbine,,,Hong Kong,Hong Kong,2304,2458,international master,grandmaster,
+Jokser,Pavel,Kovalenko,Kazakhstan,Almaty,2254,2277,master,master,Grid Dynamics
+akulsareen,Akul,Sareen,India,Bengaluru,2219,2437,master,grandmaster,
+klamathix,Mihai,Calancea,Romania,,2206,2370,master,international master,University of Bucharest
+Taube,Olesya,Golub,Russia,Tomsk,2186,2448,master,grandmaster,Tomsk PU
+Reshetnikov_Ivan,Ivan,Reshetnikov,Russia,Pskov,2166,2166,master,master,PskovSU
+Avitella,Arslan,Urtashev,Russia,Moscow,2164,2164,master,master,NRNU MEPhI
+Slamur,Slava,Muravev,Kyrgyzstan,Bishkek,2163,2301,master,international master,
+yashar_sb_sb,yashar,shahi,Iran,Tehran,2147,2180,master,master,Open Source
+mexmans,Mansur,Kutybayev,Kazakhstan,Almaty,2125,2516,master,grandmaster,Almaty IITU
+rinigan,Igor,Bichurin,Ukraine,Kharkiv,2123,2219,master,master,Google
+AlirezaN,Alireza,Nasri,Iran,Mashhad,2118,2118,master,master,
+zcg.cs60,Chenguang,Zhu,United States,,2100,2409,master,grandmaster,Microsoft
+DimaPhil,Dmitry,Philippov,Russia,Saint Petersburg,2037,2147,candidate master,master,ITMO University
+sping128,Siwakorn,Srisakaokul,Thailand,Bangkok,2021,2226,candidate master,master,University of Illinois at Urbana-Champaign
+KaiZeR,Kirill,Shchetinin,Ukraine,Kyiv,1992,2205,candidate master,master,Kyiv NU
+Antoniuk,Vasyl,Antoniuk,Ukraine,Kyiv,1948,2315,candidate master,international master,Kyiv NU
+iensen,Evgenii,Balai,Kyrgyzstan,Bishkek,1941,2050,candidate master,candidate master,Mathworks
+PAP,Pooyan,Alipanahi,Iran,Tehran,1940,2178,candidate master,master,Sharif FUT
+Ahmed_Salama,Ahmed,Salama,Egypt,Alexandria,1934,2064,candidate master,candidate master,"University of Alexandria, Faculty of Engineering"
+nrg3,,,,,1926,2167,candidate master,master,
+Hohol,Nikita,Glashenko,Russia,Samara,1917,2202,candidate master,master,Samara Trolls
+Simplex,Sergey,Savinov,Russia,Saint Petersburg,1903,2174,candidate master,master,St Petersburg AU
+sasha.sochka,Oleksandr,Sochka,Ukraine,Kyiv,1901,1901,candidate master,candidate master,Microsoft
+witua,Vitaliy,Herasymiv,Ukraine,Lviv,1901,2521,candidate master,grandmaster,Lviv NU
+lisang,Vladyslav,Lysychkin,Ukraine,Kharkiv,1876,2174,expert,master,Google
+alexyz,Alexey,Zabashta,Russia,Saint Petersburg,1851,2068,expert,candidate master,ITMO University
+MeHdi.KaZemI8,Mehdi,Kazemi,Iran,Tehran,1818,1867,expert,expert,Amirkabir University of Technology
+wackloner,Nikita,Gorokhov,Russia,Saint Petersburg,1814,2075,expert,candidate master,Yandex
+M.H.D,,,Iran,Tehran,1772,1843,expert,expert,
+tchrikch,,,Poland,,1753,1753,expert,expert,
+sushrut,Sushrut,Rathi,India,Bhopal,1749,1749,expert,expert,MANIT Bhopal
+Logvinov_Leon,Leon,Logvinov,Poland,Warsaw,1733,1988,expert,candidate master,quora inc
+asadthehell,MOHD,ASAD,India,Jodhpur,1732,1732,expert,expert,IIT Jodhpur
+MrArM,Alireza,Mahmoudi,Iran,Tehran,1727,1807,expert,expert,
+SlavaSSU,Vyacheslav,Kim,Russia,Saratov,1727,2206,expert,master,Saratov State U
+ostroumov,Nikita,Ostroumov,,,1694,1910,expert,candidate master,
+bakharev.k,Konstantin,Bakharev,Russia,Saint Petersburg,1683,1782,expert,expert,
+Desert,,,,,1650,1796,expert,expert,
+neil51,,,,,1649,1649,expert,expert,
+naagi,Natalya,Ginzburg,Russia,Saint Petersburg,1644,2183,expert,master,"Saint-Petersburg, PhML 30"
+dragonx052,,,,,1630,1630,expert,expert,
+pankajb23,pankaj,bhardwaj,India,Jodhpur,1548,1668,specialist,expert,IIT Jodhpur
+ahmedameen,ahmed,ameen,Egypt,Cairo,1546,1825,specialist,expert,FCIS Ain Shams University
+Schullz,Anton,Shapovalov,Russia,Petrozavodsk,1515,2096,specialist,candidate master,Petrozavodsk SU
+sinuhe,Jose,Luna,Peru,,1514,1514,specialist,specialist,Universidad Nacional del Altiplano - Puno
+Dixtosa,Giorgi,Eufshi,Georgia,Tbilisi,1497,1921,specialist,candidate master,
+Kivats,,,,,1477,1477,specialist,specialist,
+dario-dsa,Dario,Sindicic,Croatia,Zagreb,1408,1752,specialist,expert,FER Zagreb
+Prestige,Roman,Vasilets,Ukraine,Kharkiv,1392,1780,pupil,expert,NTU KhPI
+drops,,,,,1382,1557,pupil,specialist,
+TheMn,Amirhossein,Mahdinejad,Iran,Tehran,1299,1414,pupil,specialist,University of Tehran
+gargjatin22,jatin,garg,India,Allahabad,1199,1590,newbie,specialist,
+ivanofficial03,Ivan,Novoselov,Russia,Saratov,1180,1412,newbie,specialist,

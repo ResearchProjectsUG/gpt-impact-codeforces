@@ -1,0 +1,27 @@
+handle,first_name,last_name,country,city,rating,max_rating,rank,max_rank,organization
+Petr,Petr,Mitrichev,Switzerland,Zurich,3298,3597,legendary grandmaster,legendary grandmaster,Google
+winger,Vladislav,Isenbaev,United States,Mountain View,2697,2697,international grandmaster,international grandmaster,Nuro.AI
+al13n,Michael,Kolupaev,United States,Palo Alto,2574,2965,grandmaster,international grandmaster,Facebook
+dzhulgakov,Dmytro,Dzhulgakov,Ukraine,Kharkiv,2532,2692,grandmaster,international grandmaster,Facebook
+Anton_Lunyov,Anton,Lunyov,Ukraine,Donetsk,2512,2512,grandmaster,grandmaster,Facebook
+fhlasek,Filip,Hlasek,Czechia,Pilsen,2452,2597,grandmaster,grandmaster,Charles University in Prague
+xiaowuc1,,,United States,San Francisco,2427,2656,grandmaster,international grandmaster,koosaga fan club
+m.radwan,Mahmoud,Radwan,Egypt,Alexandria,2271,2271,master,master,
+ACube,Ali-Amir,Aldan,Kazakhstan,Almaty,2215,2368,master,international master,MIT
+cmd,Vladimir,Chalyshev,Russia,Volzhskiy,2214,2370,master,international master,Volgograd STU
+AlexFetisov,Alex,Fetisov,United States,San Francisco,2194,2313,master,international master,Facebook
+azizkhan,Azizkhan,Almakhan,Kazakhstan,Almaty,2168,2547,master,grandmaster,KBTU
+jonathanpaulson,Jonathan,Paulson,United States,New York,2146,2348,master,international master,USACO
+lovro,Lovro,Puzar,Croatia,,2141,2432,master,grandmaster,Facebook
+lavin,Zhaoyi,Zhang,China,Guangzhou,2123,2302,master,international master,
+TomConerly,Tom,Conerly,United States,Mountain View,2122,2350,master,international master,Facebook
+zcg.cs60,Chenguang,Zhu,United States,,2100,2409,master,grandmaster,Microsoft
+Aksenov239,Vitaly,Aksenov,Russia,Saint Petersburg,2025,2330,candidate master,international master,ITMO University
+ralekseenkov,Roman,A,,,1966,2015,candidate master,candidate master,
+fiver,Petar,Ivanov,Bulgaria,Sofia,1942,2007,candidate master,candidate master,Zazzle
+Seikang,Otto,Leon,United States,Mountain View,1913,1932,candidate master,candidate master,Google
+aste,Oleksii,Stepanian,United States,San Francisco,1815,1832,expert,expert,Pocket Gems Inc.
+yandry,,,United States,Mountain View,1694,1792,expert,expert,
+Jughead,Alexander,Fedulin,Russia,Petrozavodsk,1576,2146,specialist,master,
+caustique,Igor,Demidov,Russia,Saint Petersburg,1481,2243,specialist,master,
+vlady,Vlad,Dumitriu,United States,,1421,2110,specialist,master,Google

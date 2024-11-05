@@ -1,0 +1,857 @@
+handle,first_name,last_name,country,city,rating,max_rating,rank,max_rank,organization
+tourist,Gennady,Korotkevich,Belarus,Gomel,3757,3979,legendary grandmaster,legendary grandmaster,ITMO University
+ecnerwala,Andrew,He,United States,Cupertino,3486,3668,legendary grandmaster,legendary grandmaster,MIT
+Um_nik,Aleksei,Daniliuk,United Kingdom,London,3375,3663,legendary grandmaster,legendary grandmaster,Um_nik Training Center
+ksun48,Kevin,Sun,Canada,,3332,3654,legendary grandmaster,legendary grandmaster,MIT
+hos.lyric,Yui,Hosaka,Japan,Tokyo,3318,3338,legendary grandmaster,legendary grandmaster,Rabbit House
+Golovanov399,Alexander,Golovanov,Russia,Kazan’,3222,3303,legendary grandmaster,legendary grandmaster,Moscow IPT
+yutaka1999,Yuta,Takaya,Japan,,3190,3190,legendary grandmaster,legendary grandmaster,University of Tokyo
+rng_58,Makoto,Soejima,Japan,Tokyo,3074,3115,legendary grandmaster,legendary grandmaster,AtCoder
+anta,,,Japan,,3053,3106,legendary grandmaster,legendary grandmaster,
+snuke,Kento,Nikaido,Japan,Tokyo,3017,3251,legendary grandmaster,legendary grandmaster,AtCoder
+Zlobober,Maxim,Akhmedov,Russia,Moscow,2996,3026,international grandmaster,legendary grandmaster,Moscow State University
+HIR180,Hirotaka,Isa,Japan,Maebashi,2946,3102,international grandmaster,legendary grandmaster,The University of Tokyo
+RomaWhite,Roman,Bilyi,Ukraine,Lviv,2905,3053,international grandmaster,legendary grandmaster,Lviv NU
+Egor,Egor,Kulikov,Germany,Munich,2870,3235,international grandmaster,legendary grandmaster,JetBrains
+-XraY-,Igor,Pyshkin,Russia,Saint Petersburg,2867,3170,international grandmaster,legendary grandmaster,
+neal,Neal,Wu,United States,,2855,3147,international grandmaster,legendary grandmaster,USACO
+Marcin_smu,Marcin,Smulewicz,Poland,Warsaw,2845,3126,international grandmaster,legendary grandmaster,University of Warsaw
+ainta,Sunghyeon,Jo,South Korea,Seoul,2820,3318,international grandmaster,legendary grandmaster,Seoul National University
+YuukaKazami,Lijie,Chen,China,Beijing,2776,2967,international grandmaster,international grandmaster,MIT
+uwi,Uwi,Tenpen,Japan,Tokyo,2768,2935,international grandmaster,international grandmaster,"Pirika, Inc."
+izban,Ilya,Zban,United Kingdom,London,2719,2953,international grandmaster,international grandmaster,Jump Trading
+winger,Vladislav,Isenbaev,United States,Mountain View,2697,2697,international grandmaster,international grandmaster,Nuro.AI
+RAVEman,Anton,Raichuk,Ukraine,Kyiv,2693,2926,international grandmaster,international grandmaster,Google
+dario2994,Federico,Glaudo,Italy,,2692,2931,international grandmaster,international grandmaster,
+Belonogov,Ivan,Belonogov,Russia,Perm,2690,2870,international grandmaster,international grandmaster,XTX Markets
+I_love_Tanya_Romanova,Bohdan,Pryshchenko,Ukraine,Lviv,2679,3063,international grandmaster,legendary grandmaster,Google
+el_sanchez,Alexander,Logunov,Russia,Saint Petersburg,2673,2673,international grandmaster,international grandmaster,NEAR.ai
+hogloid,Kohji,Liu,Japan,Tokyo,2673,2711,international grandmaster,international grandmaster,University of Tokyo
+kraskevich,Igor,Kraskevich,,,2665,2665,international grandmaster,international grandmaster,
+niyaznigmatul,Niyaz,Nigmatullin,,,2665,2864,international grandmaster,international grandmaster,
+sankear,Alexey,Shlyunkin,Russia,Moscow,2665,2962,international grandmaster,international grandmaster,Moscow State University
+meret,Jakub,Pachocki,Poland,Gdańsk,2655,2655,international grandmaster,international grandmaster,University of Warsaw
+Coder,,,,,2654,2694,international grandmaster,international grandmaster,
+enot110,Vladimir,Smykalov,Russia,Saint Petersburg,2648,2880,international grandmaster,international grandmaster,ITMO University
+mR.ilchi,Saeed,ilchi,Iran,Karaj,2647,2647,international grandmaster,international grandmaster,Sharif FUT
+cgy4ever,,,,,2639,2639,international grandmaster,international grandmaster,
+peter50216,Peter,Shih,Taiwan,Taipei,2637,2823,international grandmaster,international grandmaster,National Taiwan U
+data_h,data,h,China,Changsha,2636,2707,international grandmaster,international grandmaster,Shanghai Jiao Tong University
+MrDindows,Yevhen,Zadorozhnii,Ukraine,Zaporizhia,2633,2845,international grandmaster,international grandmaster,Looksery
+dreamoon_love_AA,Huang,I-Wen,Taiwan,Taipei,2633,3002,international grandmaster,legendary grandmaster,AACPSCHOOL
+.o.,Suchan,Park,South Korea,Busan,2626,2718,international grandmaster,international grandmaster,
+EnumerativeCombinatorics,,,Japan,,2624,2624,international grandmaster,international grandmaster,Richard P. Stanley fun-club
+natsugiri,Tomohiro,Oka,Japan,,2619,2960,international grandmaster,international grandmaster,
+BaconLi,Yanpei,LIU,China,Tangshan,2599,2876,grandmaster,international grandmaster,Shanghai Jiao Tong University
+Arterm,Artsem,Zhuk,Belarus,Minsk,2597,2859,grandmaster,international grandmaster,Moscow IPT
+stevenkplus,Steven,Hao,United States,San Jose,2585,2874,grandmaster,international grandmaster,MIT
+VArtem,Artem,Vasilyev,Netherlands,Amsterdam,2582,2810,grandmaster,international grandmaster,pinely
+vlecomte,Victor,Lecomte,Belgium,,2581,2612,grandmaster,international grandmaster,Stanford University
+al13n,Michael,Kolupaev,United States,Palo Alto,2574,2965,grandmaster,international grandmaster,Facebook
+kmjp,,,Japan,,2574,2901,grandmaster,international grandmaster,
+Nerevar,Dmitry,Matov,Russia,Saratov,2565,2565,grandmaster,grandmaster,AI Factory
+KrK,Karolis,Kusas,Lithuania,Kaunas,2560,2810,grandmaster,international grandmaster,
+wrong,Kensuke,Imanishi,Japan,Chiba,2549,2580,grandmaster,grandmaster,University of Tokyo
+kostya_by,Kanstantsin,Sokal,United States,San Francisco,2540,2596,grandmaster,grandmaster,Google
+jonathanirvings,Jonathan Irvin,Gunawan,Singapore,Singapore,2537,2686,grandmaster,international grandmaster,Meta
+Shef,,,,,2532,2671,grandmaster,international grandmaster,
+Nikitosh,Nikita,Podguzov,Russia,Saint Petersburg,2529,2673,grandmaster,international grandmaster,Google
+freak93,Adrian,Budau,Romania,Bucharest,2528,2741,grandmaster,international grandmaster,Infoarena
+kelvin,Kelvin,Yang,Taiwan,Taipei,2528,2528,grandmaster,grandmaster,National Taiwan U
+Chmel_Tolstiy,Aleksey,Tolstikov,Belarus,Minsk,2520,2752,grandmaster,international grandmaster,Yandex
+marcina007,Marcin,Andrychowicz,Poland,Warsaw,2520,2520,grandmaster,grandmaster,University of Warsaw
+Anton_Lunyov,Anton,Lunyov,Ukraine,Donetsk,2512,2512,grandmaster,grandmaster,Facebook
+dj3500,Jakub,Tarnawski,Poland,Wrocław,2512,2551,grandmaster,grandmaster,"Lausanne, EPFL"
+zeliboba,Renat,Gimadeev,Cyprus,Limassol,2510,2837,grandmaster,international grandmaster,pinely
+Yousef_Salama,Yousef,Salama,Egypt,Alexandria,2505,2601,grandmaster,international grandmaster,Arab Academy for Science and Technology
+qwaker.00,Evgenii,Gritskevich,Belarus,Mazyr,2505,2537,grandmaster,grandmaster,Yandex
+SergeiFedorov,Sergey,Fedorov,Russia,Moscow,2501,2613,grandmaster,international grandmaster,Moscow State University
+Zhukov_Dmitry,Dmitry,Zhukov,Russia,Moscow,2488,2641,grandmaster,international grandmaster,
+yeputons,Egor,Suvorov,Russia,Saint Petersburg,2487,2783,grandmaster,international grandmaster,SPb Abstract University
+knightL,Alexandr,Lyashko,Russia,Simferopol,2486,2634,grandmaster,international grandmaster,Taurida NU
+PavelKunyavskiy,Pavel,Kunyavskiy,Netherlands,Amsterdam,2485,3097,grandmaster,legendary grandmaster,JetBrains
+wo_,Yo,Mitani,Japan,,2485,2502,grandmaster,grandmaster,The University of Tokyo
+kingofnumbers,Hasan,Jaddouh,Syria,,2484,2484,grandmaster,grandmaster,
+Hujiwara,,Hujiwara,Japan,Kawasaki,2479,2575,grandmaster,grandmaster,The University of Tokyo
+wjmsbmr,,,China,,2479,2479,grandmaster,grandmaster,ACM_DIY
+__math,,,Japan,Osaka,2478,2519,grandmaster,grandmaster,Osaka University
+Ra16bit,Yury,Pisarchyk,Belarus,Minsk,2477,2742,grandmaster,international grandmaster,
+UESTC_Nocturne,Xinhang,Zhang,China,Chengdu,2476,2476,grandmaster,grandmaster,UESTC
+Shik,Ting Wei,Chen,Taiwan,Taipei,2472,2973,grandmaster,international grandmaster,National Taiwan U
+Dmitry_Egorov,Dmitrii,Egorov,Russia,Saint Petersburg,2467,2631,grandmaster,international grandmaster,VK
+Vladyslav,Vladyslav,Hlembotskyi,Ukraine,Khmel’nyts’kyy,2465,2594,grandmaster,grandmaster,Jagiellonian University
+phtniit,haitian,peng,China,Guangzhou,2464,2464,grandmaster,grandmaster,South China University of Technology
+savinov,Evgeny,Savinov,Russia,Moscow,2456,2767,grandmaster,international grandmaster,Moscow IPT
+Enchom,Encho,Mishinev,Bulgaria,Yambol,2453,2630,grandmaster,international grandmaster,Shkola Shikovi
+aa2985759,chen,fangying,China,Guangzhou,2453,2461,grandmaster,grandmaster,Tencent
+Timur_Sitdikov,Timur,Sitdikov,Uzbekistan,Tashkent,2448,2699,grandmaster,international grandmaster,DeepMind
+ChuckLin2014,Zequn,Lin,China,Guangzhou,2443,2443,grandmaster,grandmaster,Sun Yat-Sen University
+Gassa,Ivan,Kazmenko,Russia,Saint Petersburg,2438,2616,grandmaster,international grandmaster,Saint-Petersburg SU
+Monyura,Yurii,Monastyrshyn,Ukraine,Odesa,2436,2436,grandmaster,grandmaster,Snap Inc.
+sweiss,Sergey,Weiss,Russia,Magnitogorsk,2429,2429,grandmaster,grandmaster,Google
+DPR-pavlin,Filipp,Rukhovich,Russia,Moscow,2427,2550,grandmaster,grandmaster,Moscow IPT
+iwiwi,Takuya,Akiba,Japan,Tokyo,2427,2506,grandmaster,grandmaster,
+RAD,Artem,Rakhov,Russia,Saratov,2426,2734,grandmaster,international grandmaster,Google
+sillycross,Lemon,Xu,China,,2426,2540,grandmaster,grandmaster,Blue Whale Fall Rain Language School
+aropan,Aleksey,Ropan,,,2421,2636,grandmaster,international grandmaster,CYF
+sivukhin,Nikita,Sivukhin,Russia,Yekaterinburg,2419,2682,grandmaster,international grandmaster,Ural FU
+climpet,,,Japan,,2417,2417,grandmaster,grandmaster,
+iridescent,Jason,Li,United States,Pittsburgh,2417,2513,grandmaster,grandmaster,
+KuchumovIlya,Ilya,Kuchumov,Russia,Perm,2416,2578,grandmaster,grandmaster,
+msg555,Mark,Gordon,United States,Ann Arbor,2416,2555,grandmaster,grandmaster,USACO
+kennethsnow,Yuehang,Chen,United States,Redmond,2415,2476,grandmaster,grandmaster,Microsoft
+Sfairat,Fedor,Polyakov,Ukraine,Odesa,2414,2414,grandmaster,grandmaster,Looksery
+pllk,Antti,Laaksonen,Finland,Helsinki,2412,2430,grandmaster,grandmaster,University of Helsinki
+sokokaleb,Pusaka Kaleb,Setyabudi,Indonesia,Jakarta,2410,2410,grandmaster,grandmaster,
+kawatea,,,Japan,Tokyo,2409,2583,grandmaster,grandmaster,University of Tokyo
+Dymonchyk,,,Ukraine,Kyiv,2406,2459,grandmaster,grandmaster,
+Obsidian,,,China,,2405,2615,grandmaster,international grandmaster,
+DamianS,Damian,Straszak,Poland,Krakow,2396,2462,international master,grandmaster,Aleph Zero Foundation
+watashi,Zejun,Wu,China,Hangzhou,2394,2517,international master,grandmaster,Zhejiang University
+Ilya_MSU,Ilya,Vorobyev,,,2391,2605,international master,international grandmaster,
+sandytea,Sha,Cha,China,Nanjing,2383,2383,international master,international master,Nanjing Foreign Language School
+chnlich,Chao,Li,China,Hangzhou,2376,2493,international master,grandmaster,Peking University
+ichyo,,,Japan,Tokyo,2374,2397,international master,international master,
+For_the_Love,Bo,Zheng,China,Harbin,2373,2373,international master,international master,Harbin Institute of Technology
+Eureka,,,China,,2372,2372,international master,international master,Beijing Institute of Technology
+memopaper,Chak Fai,Yuen,Hong Kong,Hong Kong,2371,2371,international master,international master,
+R_R_,,,Vietnam,Hanoi,2369,2369,international master,international master,
+burunduk3,Oleg,Davydov,Germany,Munich,2368,2542,international master,grandmaster,
+dolphinigle,Irvan,Jahja,Indonesia,Bandung,2368,2507,international master,grandmaster,National University of Singapore
+Bobik,Peter,Fulla,Slovakia,,2367,2464,international master,grandmaster,
+liouzhou_101,Qisheng,Wang,Japan,Nagoya,2365,2521,international master,grandmaster,Nagoya University
+navi,Junyuan,Zhuang,China,Xiamen,2363,2385,international master,international master,Google
+subscriber,Adam,Bardashevich,Belarus,Mazyr,2360,2977,international master,international grandmaster,ITMO University
+rankalee,,,Japan,Tokyo,2358,2358,international master,international master,
+sexyprincess91,Oleg,Ignatev,Russia,Moscow,2354,2374,international master,international master,Yandex
+IbukiSuika,,,Japan,,2353,2353,international master,international master,
+White_Bear,Anton,Lomonos,United States,Redwood City,2353,2535,international master,grandmaster,
+koratel,Michal,Lowicki,Poland,Wrocław,2352,2374,international master,international master,University of Wrocław
+sune2,Kazunori,Tamura,Japan,Kyoto,2351,2422,international master,grandmaster,Kyoto University
+zscc,Zou,Shicheng,China,Nanjing,2346,2417,international master,grandmaster,Nanjing University
+FattyPenguin,Yang,Xiao,China,Xiamen,2343,2413,international master,grandmaster,Google
+Komaki,Komaki,Chihiro,Japan,Tokyo,2343,2454,international master,grandmaster,University of Tokyo
+mmaxio,Mikhail,Mayorov,Russia,Perm,2343,2850,international master,international grandmaster,
+roosephu,Yuping,Luo,China,,2343,2343,international master,international master,Princeton University
+vilcheuski,Kanstantsin,Vilcheuski,Poland,Gdynia,2343,2382,international master,international master,EPAM Systems
+wuzhengkai,wu,zhengkai,China,Changzhou,2343,2365,international master,international master,ACM_DIY
+evima,Ryoga,Tanaka,Japan,Tokyo,2340,2404,international master,grandmaster,
+rares.buhai,Rares,Buhai,Romania,Bistriţa,2338,2499,international master,grandmaster,
+Sampson,Chun Yin Sampson,Lee,Hong Kong,Hong Kong,2336,2604,international master,international grandmaster,CUHK
+yenthanh.t7,Yen Thanh,Le,Vietnam,Ho Chi Minh City,2336,2336,international master,international master,Ho Chi Minh University of Science
+ainu7,,,South Korea,Seoul,2335,2672,international master,international grandmaster,Google
+albert96,Albert,Sahakyan,Armenia,Yerevan,2333,2575,international master,grandmaster,Yerevan State University
+hlwt,Weiping,Lin,China,Chengdu,2333,2333,international master,international master,UESTC
+kAc,Ruosong,Wang,China,Qingdao,2331,2355,international master,international master,Carnegie Mellon University
+hirosegolf,,,Japan,,2328,2412,international master,grandmaster,
+ziki,Zhikai,Ma,United Kingdom,London,2327,2361,international master,international master,Google
+sd0061,Xuanang,Zhao,China,Shanghai,2325,2782,international master,international grandmaster,Beihang University
+mugurelionut,Mugurel-Ionut,Andreica,Romania,Bucharest,2324,2345,international master,international master,Google
+sillyboy,,,Vietnam,,2324,2324,international master,international master,
+nono,,,China,Beijing,2323,2323,international master,international master,Beijing Institute of Technology
+atetubou,Takuto,Ikuta,Japan,Tokyo,2314,2432,international master,grandmaster,
+paulwang,Paul,Wang,Taiwan,Kaohsiung City,2314,2638,international master,international grandmaster,National Taiwan U
+adamant,Oleksandr,Kulkov,Ukraine,Zaporizhia,2312,2472,international master,grandmaster,ETH Zurich
+bayleef,Alexander,Vints,Ukraine,Simferopol,2312,2530,international master,grandmaster,Taurida NU
+visanr,Radu,Visan,Romania,Bucharest,2311,2311,international master,international master,
+simsa.st,Stepan,Simsa,Czechia,Litoměřice,2308,2376,international master,international master,Charles University in Prague
+cxlove,Wenzhang,Cheng,China,Shanghai,2307,2370,international master,international master,Fudan University
+akashdeep,Akashdeep,Nain,India,Bengaluru,2305,2450,international master,grandmaster,Google
+haas,hamed,saleh,Iran,Tehran,2300,2391,international master,international master,Sharif FUT
+yaro,Roman,Boykiy,Russia,Saint Petersburg,2299,2380,master,international master,Saint-Petersburg SU
+Kronecker,,,Russia,,2297,2450,master,grandmaster,Higher School of Economics
+Smit,Smit,Hinsu,India,Hyderabad,2293,2293,master,master,IIIT Hyderabad
+KOTEHOK,Andrei,Lopatin,Russia,Saint Petersburg,2291,2370,master,international master,Saint-Petersburg SU
+logicmachine,Takaaki,Hiragushi,Japan,Tokyo,2291,2436,master,grandmaster,
+ll931110,Linh,Vuong Nguyen,United States,Menlo Park,2289,2372,master,international master,Facebook
+Erop,Egor,Shchelkonogov,Russia,Yekaterinburg,2281,2401,master,grandmaster,Yandex
+ykx,,,China,,2277,2370,master,international master,
+hex539,Robin,Lee,United Kingdom,Nottingham,2275,2310,master,international master,Google
+m.radwan,Mahmoud,Radwan,Egypt,Alexandria,2271,2271,master,master,
+flowlight,takanori,hayashi,Japan,,2268,2276,master,master,The University of Tokyo
+Milanin,Aleksandr,Milanin,Russia,Simferopol,2267,2601,master,international grandmaster,Microsoft
+NurlashKO,Nurlan,Zhusupov,Kazakhstan,Almaty,2266,2266,master,master,KBTU
+marspeople,Marcelo,Povoa,Brazil,Belo Horizonte,2266,2281,master,master,Google
+hockey_for_NOI,He,Qi,China,Tianjin,2264,2337,master,international master,Tianjin Nankai High School
+johnathan79717,Jonathan,Hao,Taiwan,Taipei,2264,2358,master,international master,Facebook
+xscape,,,Serbia,,2263,2263,master,master,
+Rubanenko,Roman,Rubanenko,Ukraine,Kremenchuk,2262,2345,master,international master,Looksery
+jonathanasdf,Jonathan,Shen,United States,Mountain View,2262,2272,master,master,Google
+ngfam_kongu,F,F,Vietnam,Buon Ma Thuot,2261,2518,master,grandmaster,ITMO University
+maksay,Andrii,Maksai,Ukraine,Kyiv,2259,2567,master,grandmaster,"Lausanne, EPFL"
+daidailanlan,Jialin,Ouyang,United States,Mountain View,2258,2258,master,master,Google
+xtalclr,,,South Korea,Busan,2256,2575,master,grandmaster,
+Jokser,Pavel,Kovalenko,Kazakhstan,Almaty,2254,2277,master,master,Grid Dynamics
+Avalanche,Maksim,Gusarov,Russia,Saratov,2251,2407,master,grandmaster,Snap Inc.
+Bobgy,Bob,Gong,China,Hangzhou,2251,2307,master,international master,Zhejiang University
+yefllower,,,China,Shanghai,2251,2397,master,international master,
+BSBandme,Yilun,Chong,China,Tianjin,2250,2505,master,grandmaster,Nankai University
+flashmt,Nguyen,Nguyen,Vietnam,Ho Chi Minh City,2250,2598,master,grandmaster,
+AminoAcid,,,China,Hanzhong,2246,2246,master,master,Nanjing Foreign Language School
+Shangke7788,Bin,Xue,China,Nanjing,2246,2246,master,master,Nanjing University of Science and Technology
+guille,Guillem,Godoy,Spain,Barcelona,2243,2397,master,international master,Universitat Politècnica de Catalunya
+AstroConjecture,,,United States,,2241,2344,master,international master,USACO
+Riatre,Riatre,Foo,China,Shanghai,2240,2316,master,international master,
+edward_mj,Weijie,Chen,United Kingdom,London,2240,2354,master,international master,Zhejiang University
+Nekosyndrome,,,Taiwan,Taipei,2238,2238,master,master,National Taiwan U
+antonkov,Anton,Kovsharov,Russia,Saint Petersburg,2238,2364,master,international master,ITMO University
+malcolm,Dima,Gorbunov,Russia,Moscow,2238,2581,master,grandmaster,pinely
+CA72,,,China,Daqing,2235,2235,master,master,Fudan University
+AlexanderBolshakov,Alexander,Bolshakov,Kazakhstan,Taraz,2233,2262,master,master,Almaty IITU
+ccdd4211,Xi,Huang,China,Tianjin,2230,2230,master,master,Nankai University
+con_nha_ngheo,Andy,Nguyen,Vietnam,,2228,2321,master,international master,Nanyang Technological University
+916852,Chao,Liu,China,Guangzhou,2227,2227,master,master,South China University of Technology
+Fcdkbear,Mykhailo,Granik,Ukraine,Vinnytsia,2227,2340,master,international master,Vinnytsia NTU
+RealEyes,Fengxiang,Zhu,China,Hangzhou,2226,2226,master,master,Zhejiang University
+zhanyl,Zhan,Yanling,China,Chengdu,2226,2423,master,grandmaster,UESTC
+barty1245,BoYang,Yang,China,Beijing,2225,2225,master,master,Jisuanke
+cp12321,Pu,Chen,China,Fuzhou,2225,2238,master,master,
+tiinthp,,,,,2224,2224,master,master,South China University of Technology
+zshi,,,China,,2222,2482,master,grandmaster,
+shef_2318,Pavel,Sheftelevich,Belarus,Minsk,2221,2339,master,international master,Belarusian NTU
+theBlindMonk,Lee,Sin,China,Hangzhou,2221,2221,master,master,Hangzhou Dianzi U
+tafy,Z,xr,North Korea,Pyongyang,2218,2218,master,master,
+Archon.JK,Kai,Jiang,China,Hangzhou,2215,2382,master,international master,Zhejiang University
+helThazar,Bakhodir,Ashirmatov,Uzbekistan,Tashkent,2215,2215,master,master,Google
+jehad131,Mohammad,Hafiz Uddin,Bangladesh,Dhaka,2214,2214,master,master,Booking.com
+JustN,Nikita,Larka,Latvia,Riga,2213,2347,master,international master,
+oversolver,Vitaly,Demidenko,Russia,Krasnoyarsk,2213,2500,master,grandmaster,PMS SFU
+stqn,,,,,2209,2211,master,master,
+architkarandikar,Archit,Karandikar,India,Pune,2206,2252,master,master,IIT Indore
+klamathix,Mihai,Calancea,Romania,,2206,2370,master,international master,University of Bucharest
+-imc-,Nikita,Uvarov,,,2204,2548,master,grandmaster,pinely
+KADR,Iaroslav,Tverdokhlib,Ukraine,Kyiv,2203,2767,master,international grandmaster,Facebook
+ADJA,Adilet,Zhaxybay,Kazakhstan,Pavlodar,2202,2261,master,master,Google
+PMichalak,Paweł,Michalak,Poland,Wrocław,2201,2201,master,master,University of Wrocław
+problem-solved,yiqi,wu,China,Hangzhou,2201,2201,master,master,517coding
+NegaTeeF,Babenko,Misha,United Kingdom,London,2200,2426,master,grandmaster,
+dreamyyou,Weiqi,Chen,China,Chengdu,2200,2200,master,master,UESTC
+abbababab,,,China,,2199,2199,master,master,Renmin University of China
+FelixMirave,Felix,Mirave,Spain,Barcelona,2196,2208,master,master,
+chEEtah,Andrey,Mokhov,Kyrgyzstan,Tokmok,2196,2272,master,master,Newcastle University
+yarrr,Aleksei,Safronov,Russia,Moscow,2195,2487,master,grandmaster,
+kterry,Ruiyang,Tan,China,Guangzhou,2194,2232,master,master,Sun Yat-Sen University
+mrtempo,Ahmed,Salem,Egypt,Alexandria,2194,2274,master,master,Booking.com
+takaramono,,,Taiwan,Taoyuan City,2188,2377,master,international master,National Taiwan U
+oimaster,Zhipeng,Jia,China,Nanjing,2187,2327,master,international master,Tsinghua University
+Taube,Olesya,Golub,Russia,Tomsk,2186,2448,master,grandmaster,Tomsk PU
+maciejk,Maciej,Klimek,Poland,,2186,2381,master,international master,
+ynq1242,,,Japan,,2185,2185,master,master,University of Tokyo
+tckwok0,Tsz Chiu,Kwok,Hong Kong,Hong Kong,2184,2184,master,master,
+matrix,Amir Keivan,Mohtashami,,,2182,2480,master,grandmaster,
+persianpars,Amirmohsen,Ahanchi,Iran,Tehran,2182,2182,master,master,Sharif UT
+KungA,Alexey,Kungurtsev,Russia,Yekaterinburg,2181,2468,master,grandmaster,Ural FU
+islam-al-aarag,Islam,Al-Aarag,Egypt,Cairo,2181,2181,master,master,German University in Cairo
+takapt,,,Japan,Tokyo,2181,2208,master,master,
+wyl8899,Robot,Wei,China,,2181,2206,master,master,Liuzhou Highschool
+NVAL,Ivan,Popovich,Portugal,Lisbon,2180,2573,master,grandmaster,
+135678942570,tianle,tan,China,Beijing,2178,2327,master,international master,Bytedance
+kuangbin,Bin,Kuang,China,Shanghai,2177,2309,master,international master,
+suiyuan2009,,,China,Beijing,2177,2177,master,master,
+cafelier,Kazuhiro,Inaba,Japan,Tokyo,2176,2310,master,international master,Google
+aquamongoose,Bill,Cooperman,United States,,2175,2191,master,master,USACO
+Fefer_Ivan,Ivan,Fefer,Russia,Saratov,2174,2476,master,grandmaster,Booking.com
+neex.emil,Emil,Lerner,Russia,Moscow,2174,2401,master,grandmaster,
+Beriand,,,Poland,Wrocław,2173,2173,master,master,University of Wrocław
+akhtyamovpavel,Pavel,Akhtyamov,Russia,Magnitogorsk,2171,2241,master,master,Moscow IPT
+lyy,,,China,Changsha,2171,2171,master,master,Yali Middle School
+Flandre_Scarlet,,,China,Hangzhou,2168,2230,master,master,Zhejiang University
+Gyosh,William,Gozali,Indonesia,Jakarta,2168,2175,master,master,
+Kujou_Karen,Z,xr,North Korea,Pyongyang,2168,2236,master,master,
+azizkhan,Azizkhan,Almakhan,Kazakhstan,Almaty,2168,2547,master,grandmaster,KBTU
+a58,,,,,2167,2167,master,master,
+tanzaku,Shuji,Yamada,Japan,Kawasaki,2167,2243,master,master,
+Reshetnikov_Ivan,Ivan,Reshetnikov,Russia,Pskov,2166,2166,master,master,PskovSU
+PattS,Pattara,Sukprasert,Thailand,Bangkok,2164,2318,master,international master,Northwestern University
+Neil,Neil,Veira,Canada,Toronto,2163,2310,master,international master,SoundHound Inc.
+Slamur,Slava,Muravev,Kyrgyzstan,Bishkek,2163,2301,master,international master,
+hs484,Yu,Kudo,Japan,Tokyo,2163,2213,master,master,
+viv001,Vivek,Hamirwasia,United States,New York,2163,2163,master,master,Facebook
+squarefk,Kuai,Fang,China,Zhenjiang,2162,2357,master,international master,Danyang High School
+LiWenHaoTianXiaDiYi,Katsura,Kotonoha,China,Changsha,2161,2341,master,international master,
+vici,,,,,2161,2163,master,master,
+zanoes,Gaoxiang,Zhang,China,Fuzhou,2161,2320,master,international master,Peking University
+rais.fathin38,Muhammad Rais Fathin Mudzakir,,Indonesia,Bogor,2156,2329,master,international master,National University of Singapore
+whhone,Wai Hon,Law,Hong Kong,Hong Kong,2156,2249,master,master,
+NIGHTFIT,Kanat,Satylkhanov,Kazakhstan,Taldykorgan,2154,2181,master,master,
+ZhouYuChen,Yuchen,Zhou,China,Hangzhou,2152,2288,master,master,Zhejiang University
+yxdb,Xiaoyao,Yu,China,Hangzhou,2152,2152,master,master,Zhejiang University
+fedimser,Dmytro,Fedoriaka,United States,,2149,2254,master,master,Google
+Nezzar,,,Hong Kong,Shatin,2148,2712,master,international grandmaster,CUHK
+ts10,Grace,Tsai,China,Shanghai,2147,2147,master,master,
+jonathanpaulson,Jonathan,Paulson,United States,New York,2146,2348,master,international master,USACO
+miketcyue,,,China,Chengdu,2146,2266,master,master,
+GaryYe,,,,,2144,2268,master,master,
+lxc,Xingchen lxc902,Liu,United States,Mountain View,2144,2144,master,master,Beijing Institute of Technology
+_sunny,Tasnim Imran,Sunny,Bangladesh,,2143,2197,master,master,
+Arti1990,Artur,Kraska,Poland,Bydgoszcz,2140,2357,master,international master,University of Wrocław
+dnkywin,Calvin,Deng,United States,,2140,2426,master,grandmaster,Harvard University
+lostRating,Yao,Li,China,Shanghai,2140,2363,master,international master,Shanghai Jiao Tong University
+jasonyik,Yik,Jason,Hong Kong,,2139,2159,master,master,
+kb.,Kirill,Borozdin,Russia,Yekaterinburg,2138,2443,master,grandmaster,Ural FU
+laoriu,Vuong,Nguyen,Vietnam,,2138,2384,master,international master,
+ysyshtc,alan,young,China,Shanghai,2138,2202,master,master,Shanghai Jiao Tong University
+Eyelids,,,China,Wuhan,2137,2194,master,master,Wuhan University
+LGM,Alireza,Farhadi,Iran,Qazvin,2137,2299,master,master,Sharif University of Technology
+serlis,Serhii,Lysychkin,Ukraine,Kharkiv,2137,2137,master,master,Kharkiv NU
+mika,Andrey,Kim,,,2136,2197,master,master,Tima's hata
+svanidz1,Nikoloz,Svanidze,Georgia,Tbilisi,2135,2412,master,grandmaster,
+Jimanbanashi,,,Singapore,Singapore,2134,2528,master,grandmaster,NEWSIS
+NALP,Nikolay,Kuznetsov,,,2134,2404,master,grandmaster,
+error202,Dan,chen,China,Dalian,2133,2187,master,master,Dalian University of Technology
+Algiz,Ulugbek,Adilbekov,Kazakhstan,Taraz,2132,2230,master,master,Nazarbayev University
+Di735,Dmitriy,Silin,Russia,Barnaul,2132,2186,master,master,Altai STU
+infrmtcs,Dat,Duong,Vietnam,Hanoi,2132,2307,master,international master,HUS High School for Gifted Student
+c_loud26,,,,,2131,2131,master,master,
+SamanSami,Saman,Samikermani,Canada,Waterloo,2130,2344,master,international master,Google
+tunyash,Artur,Ryazanov,Russia,Chelyabinsk,2129,2381,master,international master,Saint-Petersburg SU
+Skird,Dmitry,Ivashchenko,Russia,Moscow,2128,2451,master,grandmaster,pinely
+365050244,Haosheng,Shan,China,Hangzhou,2127,2127,master,master,
+hama-du,Dai,Hamada,Japan,Tokyo,2127,2150,master,master,Research and Innovation
+lccycc,,,,,2127,2193,master,master,
+ivan.popelyshev,Ivan,Popelyshev,Russia,Fryazino,2126,2568,master,grandmaster,Organization::Tesera.io
+mexmans,Mansur,Kutybayev,Kazakhstan,Almaty,2125,2516,master,grandmaster,Almaty IITU
+zeulb,Stefano,Chiesa,Indonesia,Jakarta,2124,2362,master,international master,National University of Singapore
+AlanC,Alan,Chan,Hong Kong,Hong Kong,2122,2223,master,master,CUHK
+darknsux,Dat,Vu,Vietnam,,2122,2222,master,master,National University of Singapore
+hydrastuff,andrey,zayakin,Russia,Perm,2120,2316,master,international master,Sberbank
+AlirezaN,Alireza,Nasri,Iran,Mashhad,2118,2118,master,master,
+dragoon,Md. Mahbubul,Hasan,Bangladesh,Dhaka,2118,2581,master,grandmaster,
+fcjy,FENG,LIN,China,Guangzhou,2117,2117,master,master,South China University of Technology
+michal27,,,Slovakia,,2115,2169,master,master,KSP Slovakia
+sths,Steven,Hu,China,Beijing,2114,2168,master,master,Peking University
+Shahriar_sust,,,Bangladesh,Sylhet,2113,2124,master,master,Shahjalal University of Science and Technology
+forget,Si Yu,How,Malaysia,,2113,2113,master,master,
+YX201314,Wang,Shengyu,China,Ningbo,2112,2122,master,master,ACM_DIY
+vitux,Viktar,Vasileuski,Antarctica,,2111,2247,master,master,Belarusian NTU
+chaos_king,,,China,Chengdu,2109,2226,master,master,
+ondrah,Ondrej,Hubsch,Czechia,Prague,2107,2225,master,master,Charles University in Prague
+y3eadgbe,,,Japan,Tokyo,2107,2132,master,master,University of Tokyo
+yukim,,,Japan,Yokohama,2105,2297,master,master,
+bakabakashyoshyo,Kaixiang,Lei,China,Beijing,2104,2355,master,international master,Tsinghua University
+darkhh,HANCHUNG,Wang,Taiwan,Taipei,2104,2341,master,international master,National Taiwan U
+dalex,,,,,2100,2213,master,master,
+ryunosuke.iwai,ryunosuke,iwai,Japan,Nishinomiya,2099,2200,candidate master,master,Nada High School
+ddldyj237,Tuan Anh,Tran Dang,Vietnam,,2098,2322,candidate master,international master,Nanyang Technological University
+evgentu,Evgeniy,Sluzhaev,Russia,Saint Petersburg,2098,2244,candidate master,master,St Petersburg AU
+kormyshov,Mikhail,Kormyshov,Russia,Saint Petersburg,2098,2145,candidate master,master,Yandex
+zxybazh,Xiyou,Zhou,United States,Seattle,2097,2097,candidate master,candidate master,"OctoML, Inc."
+_TMB_,Bao,Truong,Vietnam,,2096,2265,candidate master,master,Google
+jma127,Jerry,Ma,United States,West Lafayette,2096,2129,candidate master,master,Facebook AI Research
+greatwall1995,,,China,Shanghai,2095,2193,candidate master,master,Shanghai Jiao Tong University
+guliashvili,Giorgi,Guliashvili,Georgia,Tbilisi,2095,2178,candidate master,master,Free University of Tbilisi
+lxhgww,,,,,2094,2228,candidate master,master,
+fetetriste,_ˁ˚ᴥ˚ˀ____,_·,Russia,,2091,2396,candidate master,international master,
+seanwu,Che-yang,Wu,Taiwan,Tainan City,2091,2347,candidate master,international master,National Taiwan U
+tworuler,Chiliang,Yang,China,Hangzhou,2091,2229,candidate master,master,Hangzhou Dianzi U
+Kamilot,Kamil,Musin,Russia,Samara,2087,2095,candidate master,candidate master,Moscow IPT
+WCG,Chun,Wu,United States,Ann Arbor,2087,2386,candidate master,international master,University of Michigan
+ntit_co1,Royce,Silvester,Vietnam,Thành Phố Hải Dương,2085,2131,candidate master,master,Nguyen Trai
+I-juice,Viacheslav,Sokolov,Russia,Saint Petersburg,2084,2295,candidate master,master,Saint-Petersburg SU
+HAPKOMAH,Nikolay,Apkoman,Russia,Engel's,2083,2083,candidate master,candidate master,Mail.Ru Group
+fenzhang,Cheng,Yueh,Taiwan,Taipei,2083,2443,candidate master,grandmaster,National Taiwan U
+Chen_ChaoRui,ChaoRui,Chen,China,Fuzhou,2079,2308,candidate master,international master,Renmin University of China
+emonzhong,Zhong,Yi,China,Shenzhen,2077,2077,candidate master,candidate master,Mensa
+lxgsbqylbk,Li,mou,China,Hangzhou,2077,2116,candidate master,master,Hangzhou Dianzi U
+oGhost,,,China,,2075,2075,candidate master,candidate master,University of Southern California
+tsfn,Yifan,Fang,China,Nanjing,2075,2188,candidate master,master,Nanjing University of Science and Technology
+LuoTianYi,,,China,Nanjing,2071,2071,candidate master,candidate master,
+Adenium_Rose_Of_Desert,,,,,2069,2069,candidate master,candidate master,
+rminuv372,zhenyang,dai,China,Beijing,2069,2222,candidate master,master,ACM_DIY
+Hachiikung,Worrachate,Bosri,Thailand,Bangkok,2068,2190,candidate master,master,Chulalongkorn University
+havaliza,Seyed Hamed,Valizadeh,Iran,Tehran,2068,2336,candidate master,international master,Sharif FUT
+alex-mercer,Amin,Moghaddam,Switzerland,,2067,2136,candidate master,master,
+buko,Wojciech,Bukowicki,Poland,Krakow,2067,2541,candidate master,grandmaster,
+SebP,Sebastian,Prillo,Argentina,Buenos Aires,2066,2152,candidate master,master,FCEN-UBA
+Krasnokutskiy,Anton,Krasnokutskiy,Ukraine,Kharkiv,2065,2065,candidate master,candidate master,Looksery
+dancho,Yordan,Chaparov,Bulgaria,Yambol,2065,2434,candidate master,grandmaster,Imperial College London
+lyc,Yichuan,Liang,China,Guangzhou,2064,2257,candidate master,master,Sun Yat-Sen University
+lcch,Hao,Chen,China,Beijing,2063,2063,candidate master,candidate master,
+dilutedream,,,,,2059,2059,candidate master,candidate master,
+esrever,Andy,Yu,Taiwan,Taipei,2059,2139,candidate master,master,
+handojo1,Christianto,Handojo,Indonesia,Bandung,2058,2129,candidate master,master,Institute Technology of Bandung
+Gluk,Andrii,Grynenko,Ukraine,Kyiv,2057,2283,candidate master,master,
+b-inary,Wataru,Inariba,Japan,Saitama,2057,2112,candidate master,master,University of Tokyo
+iscsi,Istvan,Nagy,Austria,Kuchl,2055,2133,candidate master,master,
+ixxa,,,Japan,,2055,2055,candidate master,candidate master,
+IgorAkhmetov,Igor,Akhmetov,,,2053,2375,candidate master,international master,JetBrains
+ZEROm,Mingming,Cheng,China,Nanchang,2053,2053,candidate master,candidate master,East China Jiaotong University
+ytau,Tsun,Au Yeung,Hong Kong,Hong Kong,2053,2175,candidate master,master,
+Pad,Knowledge,Patchouli,Australia,Canberra,2052,2226,candidate master,master,ACM_DIY
+lys1280023,Yeshu,Li,United States,Chicago,2048,2082,candidate master,candidate master,University of Illinois
+miku,,,,,2046,2060,candidate master,candidate master,
+hgminh,Minh,Hoang,Vietnam,Hanoi,2045,2045,candidate master,candidate master,
+sas4eka,Ilya,Sashcheka,Netherlands,Amsterdam,2045,2336,candidate master,international master,IMC financial markets
+Witalia,Vitalii,K,Ukraine,Lviv,2043,2140,candidate master,master,
+wanbo,wan,bo,China,Hangzhou,2043,2186,candidate master,master,Zhejiang University
+OgieKako,Keigo,Oka,Japan,Tokyo,2041,2302,candidate master,international master,
+moinul.shaon,,,Bangladesh,Dhaka,2041,2080,candidate master,candidate master,BUET
+pawelwa111,Pawel,Walczak,Poland,Gdynia,2041,2041,candidate master,candidate master,
+TMandzu,Tornike,Mandzulashvili,Georgia,Tbilisi,2037,2333,candidate master,international master,Free University of Tbilisi
+Ming.Shen,,,,,2036,2097,candidate master,candidate master,
+TroyI118,chuan,tan,China,Guangzhou,2035,2154,candidate master,master,South China University of Technology
+tyamgin,Ivan,Tyamgin,Russia,Simferopol,2035,2300,candidate master,international master,Taurida NU
+SkorKNURE,Oleksandr,Skoryk,Ukraine,Kharkiv,2034,2111,candidate master,master,
+arosusti,You-Cheng,Syu,Taiwan,Taipei,2034,2265,candidate master,master,National Taiwan U
+Deamon,Dmitry,Lyz,Russia,Taganrog,2032,2116,candidate master,master,Southern FU (Taganrog)
+OVR,Ojars Vilmars,Ratnieks,Latvia,Sigulda,2031,2135,candidate master,master,University of Cambridge
+doraemon,Zhong,Yi,China,Ningde,2031,2031,candidate master,candidate master,FT
+zhonghaoxi,,,,,2029,2156,candidate master,master,Tencent
+Captain_CoCo,shucheng,zhong,China,Wuhan,2026,2124,candidate master,master,Huazhong University of Science and Technology
+Corei13,Dhananjoy,Biswas,Bangladesh,Chittagong,2023,2148,candidate master,master,
+technolt,Le,Tue,Vietnam,Hanoi,2022,2240,candidate master,master,Nanyang Technological University
+ksjuchi,Kseniya,Chistyakova,Russia,,2020,2096,candidate master,candidate master,
+IgorL,Igor,Labutin,Russia,Saint Petersburg,2018,2278,candidate master,master,SPb Abstract University
+Monmoy,Momontho,Monmoy,United States,Cambridge,2017,2108,candidate master,master,University of Dhaka
+vlyubin,,,Ukraine,Lviv,2017,2171,candidate master,master,University of Waterloo
+pedrovictor,Pedro,Silvestre,Brazil,Recife,2016,2192,candidate master,master,UFPE
+shindo,Danil,Osherov,Russia,Perm,2016,2086,candidate master,candidate master,
+boleyn.su,Boleyn,Su,China,,2015,2362,candidate master,international master,
+stan,Stanislav,Pak,Russia,,2013,2192,candidate master,master,Rocket Fuel
+alpc172,Zheng,Qin,China,Changsha,2012,2125,candidate master,master,National University of Defense Technology
+dvylfz921,Dong,Shi,China,Beijing,2012,2012,candidate master,candidate master,Facebook
+nhirokinet,,,Japan,,2012,2012,candidate master,candidate master,
+sjynoi,,,China,Shijiazhuang,2011,2011,candidate master,candidate master,
+andrey-tsb,,,,,2010,2086,candidate master,candidate master,
+pkqs90,,,China,,2008,2189,candidate master,master,
+amrSamir,Amr,Samir,Egypt,Cairo,2007,2076,candidate master,candidate master,FCI-Cairo university
+brunoja,Bruno,Junqueira Adami,Brazil,São Carlos,2005,2052,candidate master,candidate master,University of São Paulo
+this_isssssyy,Yang,Yue,China,,2005,2357,candidate master,international master,Fudan University
+FedyuninV,Valeriy,Fedyunin,Russia,Dolgoprudnyy,2003,2006,candidate master,candidate master,
+delta_4d,,,,,2003,2003,candidate master,candidate master,
+Azras,Jakub,Kołodziej,Poland,Giżycko,2000,2152,candidate master,master,University of Warsaw
+RAF,Anton,Ryabushev,Russia,Krasnoyarsk,2000,2097,candidate master,candidate master,IMCS Siberian FU
+fnoifgyu,David,Feng,China,Tianjin,1999,1999,candidate master,candidate master,Tianjin No.1 High School
+xiaoshua,Wu,Enci,China,Hangzhou,1998,2122,candidate master,master,Zhejiang University of Finance and Economics
+momo_vn,Momchil,Peychev,Bulgaria,Varna,1997,2143,candidate master,master,
+Satoshi_Pikachu,junxiong,cai,China,Changchun,1996,1996,candidate master,candidate master,Jilin University
+tclsm,sm,L,China,Wuhan,1995,1995,candidate master,candidate master,Huazhong University of Science and Technology
+Angor,,,,,1993,2017,candidate master,candidate master,
+shilov,Vadim,Shilov,Russia,Perm,1991,2192,candidate master,master,Perm NRPU
+bad,,,,,1989,2076,candidate master,candidate master,
+Sklyack,,,Ukraine,Odesa,1988,2141,candidate master,master,Odessa NU
+makanbeling,Rakina,Zata Amni,Indonesia,Jakarta,1988,1988,candidate master,candidate master,Google
+sanjeev,Sanjeev,Shenoy,India,Indore,1988,2006,candidate master,candidate master,IIT Indore
+syco,,,India,,1987,2275,candidate master,master,
+Balajiganapathi,Balajiganapathi,S,India,Bengaluru,1986,2363,candidate master,international master,CodeDrills
+moonlight131,Xueliang,Ren,China,Changchun,1985,2269,candidate master,master,
+dojiboy9,Deon,Nicholas,Canada,Waterloo,1984,2396,candidate master,international master,University of Waterloo
+qujun51319,Jun,Qu,China,Shanghai,1980,2048,candidate master,candidate master,
+piloop,Pouria,Alimirzaei,Iran,Tehran,1979,2168,candidate master,master,
+blazerer,Roman,Peshkurov,Russia,,1976,1976,candidate master,candidate master,
+abczz,Zhou,Zhou,China,Wuhan,1975,1995,candidate master,candidate master,Huazhong University of Science and Technology
+grey_wind,Anton,Boytsov,Russia,Chelyabinsk,1975,1975,candidate master,candidate master,South Ural SU
+nju_v_o_f,zhou,yichi,China,Nanjing,1975,2128,candidate master,master,Nanjing University
+obag,Gabriele,Farina,United States,Pittsburgh,1975,2004,candidate master,candidate master,Carnegie Mellon University
+Ixanezis,Sergei,Zhgirovski,Belarus,Minsk,1971,2126,candidate master,master,Yandex
+Joshua_Bright,Joshua,Bright,,,1971,1971,candidate master,candidate master,
+yplusplusplusplus,Lester,Yang,China,Guangzhou,1971,2077,candidate master,candidate master,SCAU
+Serenade,,,,,1969,1996,candidate master,candidate master,
+geka666,,,,,1968,1968,candidate master,candidate master,
+azlhust,Lin,Anze,China,Wuhan,1967,2279,candidate master,master,Huazhong University of Science and Technology
+robert_rosolek,Robert,Rosolek,Poland,Warsaw,1967,2127,candidate master,master,University of Warsaw
+Azat_Yusupov,Azat,Yusupov,Uzbekistan,Urgench,1966,2071,candidate master,candidate master,TUIT Urgench Branch
+hiphip,Nipun,Pitimanaaree,Thailand,Bangkok,1966,2189,candidate master,master,
+Ericcwang,hanmo,wang,China,Beijing,1963,1963,candidate master,candidate master,University of Science and Technology of China
+kreep,,,,,1963,1978,candidate master,candidate master,
+scorpion,Anton,Hulikau,Germany,Munich,1963,2324,candidate master,international master,Google
+Abra,Andrey,Anurin,Russia,Samara,1962,2151,candidate master,master,
+nf001,Xuyu,Gui,China,Guangzhou,1962,1987,candidate master,candidate master,South China University of Technology
+ishikado,,,Japan,Tokyo,1961,1966,candidate master,candidate master,
+mas_HOJer,,,,,1961,1963,candidate master,candidate master,
+sonyckson,Eric,Destefanis,Argentina,Córdoba,1960,2097,candidate master,candidate master,
+AlexJH,,,,,1958,2019,candidate master,candidate master,TU of Madrid
+Shtrix,Roman,Iedemskyi,Ukraine,Kyiv,1957,2229,candidate master,master,Google
+dusty.and.rusty,,,Argentina,Buenos Aires,1957,2141,candidate master,master,General Motors
+suhang1994,feilai,jiong,,,1956,2082,candidate master,candidate master,
+void_rank,shiyi,lan,China,,1956,1956,candidate master,candidate master,Liuzhou Highschool
+gridnevvvit,Vitalii,Gridnev,Russia,Saratov,1954,2172,candidate master,master,Yandex
+Edvard,Edvard,Davtyan,,,1953,2543,candidate master,grandmaster,
+alpc104,Shanchuan,Wan,China,Changsha,1952,2184,candidate master,master,National University of Defense Technology
+0222_,,,China,Xi'an,1950,1950,candidate master,candidate master,xjtu
+OmniLRenegadE,Vladimir,Butin,Russia,,1950,2033,candidate master,candidate master,
+acherepanov,Alexey,Cherepanov,United Kingdom,London,1950,2275,candidate master,master,Google
+Thomas_Ahle,Thomas,Dybdahl Ahle,Denmark,,1949,1949,candidate master,candidate master,
+ABalobanov,Aleksander,Balobanov,Russia,Kaliningrad,1948,2311,candidate master,international master,Kant Baltic FU
+AnnKats93,Ann,Kats,Ukraine,Odesa,1948,2173,candidate master,master,Odessa NU
+FZU_NuclearWeapon,,,,,1947,1947,candidate master,candidate master,
+TheRaven,,,United States,,1947,2049,candidate master,candidate master,
+lxyxynt,Yingnan,Xiao,China,Beijing,1947,2071,candidate master,candidate master,Beijing University of Posts and Telecommunications
+LoveCJ,,,,,1946,1946,candidate master,candidate master,
+shettynamit,Namit,Shetty,India,Thāne,1946,1946,candidate master,candidate master,Carnegie Mellon University
+ConanKudo,VU,PHAM QUANG,Vietnam,Hanoi,1945,2249,candidate master,master,
+LinKin,,,Bangladesh,Dhaka,1944,2117,candidate master,master,Google
+microtony,Tony,Wong,Hong Kong,Hong Kong,1943,2401,candidate master,grandmaster,Google
+fiver,Petar,Ivanov,Bulgaria,Sofia,1942,2007,candidate master,candidate master,Zazzle
+prowindy,Cong,Chen,China,Hangzhou,1942,2112,candidate master,master,Zhejiang University
+ultizet,Nikita,Zetilov,Sweden,Stockholm,1942,2187,candidate master,master,"Moscow, School 179"
+Mohammad_JRS,MohammadJavad,Rezaei Seraji,Iran,Tehran,1941,1978,candidate master,candidate master,Sharif University of Technology
+Haruki,,,China,,1940,2020,candidate master,candidate master,
+dinarisio,Dinar,Gainitdinov,Russia,Kazan’,1940,2058,candidate master,candidate master,Kazan FU
+tenyoku8478,,,Taiwan,,1940,1940,candidate master,candidate master,
+1tthinking,Qipeng,Liu,China,Changzhou,1938,2090,candidate master,candidate master,
+pjag,Piotr,Jagiełło,Poland,,1938,1945,candidate master,candidate master,University of Wrocław
+pkhaustov,Pavel,Khaustov,United Kingdom,London,1938,2428,candidate master,grandmaster,Meta
+zlqiszlq,,,,,1938,1938,candidate master,candidate master,
+Anarivu,Sofiya,Kats,Ukraine,Odesa,1937,2184,candidate master,master,Odessa NU
+Noskov,Stepan,Noskov,Russia,Izhevsk,1935,1935,candidate master,candidate master,Higher School of Economics
+ft.azadi,Fatemeh,Azadi,Iran,Tehran,1935,2087,candidate master,candidate master,Amirkabir University of Technology
+Ahmed_Salama,Ahmed,Salama,Egypt,Alexandria,1934,2064,candidate master,candidate master,"University of Alexandria, Faculty of Engineering"
+Soheil96,,,Iran,Tehran,1934,1934,candidate master,candidate master,Allame Helli
+makrusak,Maxim,Rusak,Belarus,Hrodna,1933,1955,candidate master,candidate master,Moscow IPT
+Gatina,,,,,1932,2125,candidate master,master,
+meteorcloudy,Yun,Peng,China,Chengdu,1932,2010,candidate master,candidate master,UESTC
+smxrwzdx,,,,,1932,1990,candidate master,candidate master,
+MinakoKojima,Minako,Kojima,Ukraine,Odesa,1931,2336,candidate master,international master,ACM_DIY
+Silent_coder,Rashedul Hasan,Rijul,Bangladesh,Dhaka,1930,2044,candidate master,candidate master,University of Dhaka
+BIT_silence,,,Romania,Bucharest,1929,2198,candidate master,master,University of Bucharest
+groupbuilder,Jack,Chen,United States,Fremont,1923,1923,candidate master,candidate master,Rocket Fuel
+Boxer,Luis,Vasquez,Peru,Lima,1920,1972,candidate master,candidate master,Leetcode
+hamlet_fiis,Jonathan,Durand,Peru,Lima,1920,1920,candidate master,candidate master,Universidad Nacional de Ingeniería
+jlahcejlot,Denis,Shaveynikov,Russia,Chelyabinsk,1920,2189,candidate master,master,South Ural SU
+rookie052,,,China,Tianjin,1919,1919,candidate master,candidate master,
+Gravekper,JaeHeon,Jeong,South Korea,Seongnam-si,1918,2193,candidate master,master,Rabbit House
+ibra,Ibragim,Ismailov,United States,Bellevue,1918,2161,candidate master,master,Microsoft
+sokian,Sergey,Kiayn,Russia,Moscow,1918,2516,candidate master,grandmaster,Joom
+Empty,Joel Edu,Sánchez Castro,Peru,Cusco,1917,2032,candidate master,candidate master,University of São Paulo
+KirillB,,,Russia,Arkhangelsk,1917,2114,candidate master,master,NARFU
+arti,Artem,Iglikov,Kazakhstan,Almaty,1917,2082,candidate master,candidate master,
+Choojae,,,,,1916,1916,candidate master,candidate master,
+cyk2011,Yukang,Chen,China,Wenzhou,1916,2078,candidate master,candidate master,Fudan University
+Bidhan,Bidhan,Roy,Bangladesh,Dhaka,1915,2001,candidate master,candidate master,University of Dhaka
+hydroxygen,,,China,Beijing,1915,2036,candidate master,candidate master,
+romanova,,,Ukraine,Odesa,1915,2081,candidate master,candidate master,Odessa NU
+andrehahn,Andre,Pereira,Brazil,São Paulo,1912,2032,candidate master,candidate master,
+xxoo,Youze,Tang,,,1912,1912,candidate master,candidate master,
+Kharybin,Denis,Kharybin,Russia,Kaliningrad,1911,2259,candidate master,master,Yandex
+forifchen,Daniel,Soncco,Peru,Lima,1910,2198,candidate master,master,
+lamphanviet,Phan-Viet,Lam,Vietnam,Can Tho,1910,2078,candidate master,candidate master,Amazon Web Services
+Furko,,,,,1908,2425,candidate master,grandmaster,
+GaoYusong,Yusong,Gao,China,Hangzhou,1908,1939,candidate master,candidate master,
+gogokefakefa,Georgi,Georgiev,Bulgaria,Sofia,1908,2309,candidate master,international master,
+Fedyarer,Fedor,Ivlev,Russia,Troitsk,1907,1907,candidate master,candidate master,
+itytwt,,,,,1907,2014,candidate master,candidate master,
+valeriy.stromov,Valery,Stromov,Russia,Moscow,1907,2005,candidate master,candidate master,Moscow State University
+s-k-y,Artem,Kazakov,Russia,Tomsk,1905,1951,candidate master,candidate master,Moscow State University
+Fride,,,,,1904,1909,candidate master,candidate master,
+PrimuS,Artur,Beznosyuk,Ukraine,Lviv,1904,1904,candidate master,candidate master,Lviv Polytechnic National University
+API,Andrey,Pikas,Russia,Yaroslavl,1903,2148,candidate master,master,
+Simplex,Sergey,Savinov,Russia,Saint Petersburg,1903,2174,candidate master,master,St Petersburg AU
+sasha.sochka,Oleksandr,Sochka,Ukraine,Kyiv,1901,1901,candidate master,candidate master,Microsoft
+witua,Vitaliy,Herasymiv,Ukraine,Lviv,1901,2521,candidate master,grandmaster,Lviv NU
+Kianoosh,Kianoosh,Abbasi,Iran,Tehran,1900,2131,candidate master,master,Sharif FUT
+wangchaohui,Chaohui,Wang,China,Shanghai,1899,2133,expert,master,Google China
+TeCNoYoTTa,Islam,AbdelRahman,Egypt,Cairo,1897,1897,expert,expert,
+newbeginBKB,Xiaochen,Kai,China,Wenzhou,1893,2007,expert,candidate master,Linctex
+mylyanyk.ivan,Ivan,Mylyanyk,Ukraine,Lviv,1892,2129,expert,master,Lviv NU
+kuailezhish,,,China,Beijing,1891,1958,expert,candidate master,
+FLanS39,Peichen,Xie,China,Chongqing,1889,1927,expert,candidate master,ChongQing No.8 Secondary School
+randrew,Andrew,Raukut,Belarus,Lida,1889,1889,expert,expert,BSUIR
+tjg,tang,VERSON,China,Fuzhou,1889,1937,expert,candidate master,
+guguli,Ramtin,Afshar,United States,Irvine,1888,1893,expert,expert,"University of California, Irvine"
+xhae,Hyeonjong,Ryu,South Korea,Seoul,1888,2264,expert,master,
+dragon007,WangLong,Wu,China,Beijing,1886,1975,expert,candidate master,
+SiddharthBora,Siddharth,Bora,India,New Delhi,1881,1913,expert,candidate master,IIT Delhi
+Velicue,Spencer,Velicue,China,Beijing,1881,1881,expert,expert,Peking University
+daniel.anghel,Daniel,Anghel,Romania,Bucharest,1881,1881,expert,expert,
+fuch,,,China,Hefei,1878,2138,expert,master,
+zjr506,,,,,1878,1967,expert,candidate master,
+562908590,Chong,Li,China,Beijing,1875,1949,expert,candidate master,Peking University
+Milad,M,R,Iran,Karaj,1875,1916,expert,candidate master,
+sameer47,Sameer,Jain,India,New Delhi,1875,2141,expert,master,Delhi Technological University
+sebastianclaici,Sebastian,Claici,Romania,Timișoara,1874,1874,expert,expert,MIT
+Miron95,Miron,Levkov,Russia,Moscow,1873,1873,expert,expert,
+chiemduybao,Bao,Duy Chiem,Vietnam,Ho Chi Minh City,1873,1883,expert,expert,
+kyuridenamida,Kazuma,Mikami,Japan,Osaka,1873,2308,expert,international master,Osaka University
+pichayut,pichayut,liamthong,Thailand,Nonthaburi,1873,1873,expert,expert,
+TangJie,,,,,1872,1872,expert,expert,
+ika,Irakli,Merabishvili,Georgia,Tbilisi,1871,2093,expert,candidate master,
+chinachen,Ningchen,Ying,China,Ningbo,1870,1879,expert,expert,Hong Kong University of Science and Technology
+Alireza,Alireza,Bitaraf Haghighi,Netherlands,Amsterdam,1869,2039,expert,candidate master,Booking.com
+clouilt,,,China,Hefei,1869,1869,expert,expert,
+fishpear,,,,,1869,1887,expert,expert,
+kira,Apoorv,Gupta,United States,New York,1869,1869,expert,expert,IIIT Hyderabad
+jskhirtladze,J,S,,,1867,2139,expert,master,
+HighFlow,Costin,Vlad,Romania,Ploieşti,1866,1988,expert,candidate master,University of Bucharest
+Toshik,Anton,Kamenko,Russia,Rybinsk,1866,2022,expert,candidate master,
+pencil_man,Cuong,Nguyen,Vietnam,Da Nang,1865,1976,expert,candidate master,WPI
+coderbd,Dutch,Dijkstra,Hong Kong,Hong Kong,1862,2006,expert,candidate master,
+dianbei,Jianing,Chen,China,Hangzhou,1860,2140,expert,master,Zhejiang University City College
+right_wing,Maple,Helen,China,Shanghai,1860,2021,expert,candidate master,
+GoldenMan,,,Russia,Novosibirsk,1859,2048,expert,candidate master,Moscow State University
+Vergissmeinnicht,Shining,,China,,1859,2130,expert,master,Shanghai Jiao Tong University
+Yukine_Chris,Xiajun,Wang,China,Hangzhou,1859,1879,expert,expert,Zhejiang University
+lawsonh,,,Canada,,1857,1952,expert,candidate master,
+cgangee,,,China,Beijing,1854,1854,expert,expert,
+hime,himemiya,nanaon,China,Nanjing,1853,2074,expert,candidate master,Nanjing University
+timd,Tim Joseph,Dumol,Philippines,Manila,1853,1897,expert,expert,
+aishvarya,Aishvarya,Vishvesh Singh,Switzerland,Zurich,1851,1851,expert,expert,IIIT Hyderabad
+fatsheep_LF,,,,,1851,2047,expert,candidate master,
+luzilon1,,,,,1851,1851,expert,expert,
+11223d,,,China,,1849,1930,expert,candidate master,University of Michigan
+yosss,,,,,1848,1932,expert,candidate master,
+guwlqs139,Trigon,Wu,China,Nanjing,1847,1867,expert,expert,Rose-Hulman Institute of Technology
+mdldml,Dmitriy,Meynster,Russia,Saint Petersburg,1847,1996,expert,candidate master,
+Konjac,Kun,Huang,China,Beijing,1845,1845,expert,expert,ACM_DIY
+trunghieu11,Nguyen,Trung Hieu,Vietnam,Ho Chi Minh City,1845,1845,expert,expert,
+wzc1995,,,China,Beijing,1845,1849,expert,expert,Peking University
+---Grigor---,Grigor,Gevorgyan,Armenia,Yerevan,1844,2163,expert,master,
+haxxpop,Suphanat,Chunhapanya,Thailand,Bangkok,1842,1920,expert,candidate master,Kasetsart University
+pva701,Ilya,Peresadin,Russia,Saint Petersburg,1842,2229,expert,master,ITMO University
+DebutantGY,,,,,1841,1872,expert,expert,
+Vani,Xiangyu,Luo,China,Beijing,1840,1977,expert,candidate master,
+lxfind,,,,,1840,1840,expert,expert,
+plutoshe,,,,,1840,1840,expert,expert,
+ivanromanov,Ivan,Romanov,Switzerland,Zurich,1838,2105,expert,master,Saratov State U
+night10101,,,,,1838,1855,expert,expert,
+shioshiota,Tetsuya,Shioita,Japan,Tokyo,1833,1919,expert,candidate master,University of Tokyo
+ZJUT_BrokenHeart,,,,,1832,1929,expert,candidate master,
+dimatomp,Dmitry,Tomp,Russia,Saint Petersburg,1832,1883,expert,expert,ITMO University
+suxing11,,,,,1832,1832,expert,expert,
+semicolon29,Chetan,Gupta,India,Hyderabad,1831,1914,expert,candidate master,IIIT Hyderabad
+codingrabbit,,,,,1830,1830,expert,expert,
+haku,Oleg,Martynov,Russia,Moscow,1830,2110,expert,master,Yandex
+onetwothree,Lorenzo,Gatto,Italy,,1830,2033,expert,candidate master,University of Bologna
+Dakurels,Szymon,Stankiewicz,Poland,Krakow,1829,1968,expert,candidate master,Jagiellonian University
+cjoa,Carlos,Joa,Dominican Republic,Santo Domingo,1829,2070,expert,candidate master,
+Ply_py,,,China,Xi'an,1828,1887,expert,expert,
+xyahr,,,,,1828,1828,expert,expert,
+espr1t,Alexander,Georgiev,Bulgaria,Sofia,1827,2355,expert,international master,Sofia University
+vvuhmm107,Peijie,You,China,Guangzhou,1823,1884,expert,expert,Fudan University
+erikgrabljevec5,,,,,1822,2022,expert,candidate master,
+pratyai,Pratyai,Mazumder,Bangladesh,Dhaka,1820,1988,expert,candidate master,
+weixinding,,,China,,1819,1947,expert,candidate master,
+Gleb,,,,,1817,1910,expert,candidate master,
+toppykung,Krittisak,Chaiyakul,Thailand,Hat Yai,1817,1817,expert,expert,Saeng Thong Vitthaya
+zengarden,,,,,1817,1817,expert,expert,
+valih10,,,,,1812,2011,expert,candidate master,
+MrBear,Andriy,Medvid,Ukraine,Lviv,1811,1932,expert,candidate master,Lviv Polytechnic National University
+lengxiang,,,,,1811,1811,expert,expert,
+tclsm2012,Shunmin,Li,China,Wuhan,1811,1936,expert,candidate master,Huazhong University of Science and Technology
+duoxida,,,,,1809,1956,expert,candidate master,
+NotImplemented,NotImplemented,Anonymous,Antarctica,McMurdo Station,1808,1958,expert,candidate master,
+VUAcoder,F A Rezaur Rahman,Chowdhury,Bangladesh,Dhaka,1808,1962,expert,candidate master,BUET
+Thost,Kaizhen,Li,China,Chengdu,1805,2012,expert,candidate master,
+YYOne,,,China,Beijing,1805,2022,expert,candidate master,Beijing Institute of Technology
+MDantas,Mateus,Dantas,Brazil,Campina Grande,1804,2012,expert,candidate master,Federal University of Campina Grande
+sfarma_pietre,Octavian,Ganea,Romania,,1804,1910,expert,candidate master,
+tereshinvs,Vladimir,Tereshin,,,1804,1926,expert,candidate master,
+NateRiverxkh,Kunhong,Xu,China,Guangzhou,1803,2049,expert,candidate master,South China University of Technology
+Temirulan,Temirulan,Mussayev,Kazakhstan,Almaty,1803,2476,expert,grandmaster,KBTU
+Miras321,Miras,Myrzakerey,Kazakhstan,Almaty,1802,1902,expert,candidate master,Nazarbayev University
+MSPA,Roman,Magdenko,Russia,Krasnoyarsk,1801,1954,expert,candidate master,IMCS Siberian FU
+trungda,,,,,1801,1918,expert,candidate master,
+cacophonix,ashiqul,mostofa,Singapore,Singapore,1798,1933,expert,candidate master,BUET
+chaemon,Toshihiro,Shimizu,Japan,Tokyo,1797,2126,expert,master,
+Misha100896,Mikhail,Ivanov,Russia,Rybinsk,1796,2176,expert,master,"Rybinsk, Lyceum 2"
+Leewings,Leewings,Ng,China,Tianjin,1793,1832,expert,expert,Nankai University
+qpvixq112,,,,,1792,1792,expert,expert,
+vadym_doroshenko,,,Ukraine,Kyiv,1789,2083,expert,candidate master,
+Kentauros,,,,,1788,1858,expert,expert,
+gaoxin,,,,,1787,1787,expert,expert,
+Naranbayar,Naranbayar,Uuganbayar,Mongolia,,1786,1811,expert,expert,
+mary-zr,Maria,Zyryanova,Russia,,1785,1790,expert,expert,
+Alpc_Necs,Qi,Zhang,China,,1784,1861,expert,expert,National University of Defense Technology
+htzfun,Bogdan,Pozharsky,Ukraine,Kharkiv,1784,1784,expert,expert,KhNURE
+kleninz,Egor,Klenin,Russia,Moscow,1784,2160,expert,master,Moscow State University
+bm_anas,Baker Mohammad,Anas,Bangladesh,Sylhet,1782,1782,expert,expert,Shahjalal University of Science and Technology
+GeKa,,,Ukraine,Lviv,1781,2193,expert,master,Lviv-Code
+chm517,,,China,,1781,1906,expert,candidate master,
+lyoz,,,Japan,,1781,2110,expert,master,
+ximo,,,Ireland,Dublin,1781,1864,expert,expert,Universitat Politecnica de Valencia
+TINYJR,LEE,CHEN,China,Changzhou,1780,1807,expert,expert,Changzhou No.1 Middle School
+looser,,,,,1780,1780,expert,expert,
+conioh,ANSHUL,JAIN,India,Allahabad,1779,1800,expert,expert,
+pourdam,A,P,Iran,Tehran,1779,1779,expert,expert,Sharif FUT
+marat.turaev,,,,,1777,1813,expert,expert,
+de_troit,Nursultan,Jubatyrov,Kazakhstan,Aktau,1776,1776,expert,expert,Aktau KTL
+ChaRiL,bkjhbkj,hkjhk,Ukraine,Kyiv,1774,1774,expert,expert,
+qinhang3,Hang,Qin,China,Guangzhou,1774,1922,expert,candidate master,Guangdong University of Technology
+HeroShadow,Lenar,Iskhakov,Russia,Izhevsk,1773,1887,expert,expert,
+nurzhands,Nurzhan,Dyussenaliyev,Kazakhstan,Atyrau,1773,2056,expert,candidate master,
+0639842718,,,,,1772,1844,expert,expert,
+Bega,Bega,monster,Turkmenistan,Ashgabat,1772,1808,expert,expert,
+Hynek,Hynek,Jemelik,Czechia,Brno,1772,1948,expert,candidate master,
+M.H.D,,,Iran,Tehran,1772,1843,expert,expert,
+blabla404,,,France,,1772,1863,expert,expert,
+xkszltl,Tongliang,Liao,China,Fuzhou,1772,2098,expert,candidate master,The University of Texas at Austin
+kinodjnz,,,Japan,,1770,1898,expert,expert,
+ruptins,,,China,,1770,1890,expert,expert,
+ydnl,Kwok,Tsz Piu,,,1769,1901,expert,candidate master,
+icyrhyme,ZHOU,Yilun,China,Hangzhou,1767,1930,expert,candidate master,Zhejiang University
+tmanohar02,,,,,1766,1858,expert,expert,
+bcurcio,Brian,Curcio,Argentina,Buenos Aires,1765,1836,expert,expert,FCEN-UBA
+xing89qs,XianFa,Wang,China,Haikou,1765,2257,expert,master,
+Saimon_Saret,Semyon,Yuryev,United Kingdom,London,1764,2019,expert,candidate master,Google
+NikitaPogodin,Nikita,Pogodin,Russia,Tyumen,1763,1940,expert,candidate master,Tyumen SU
+XiaoDan,Chao,,China,,1762,2006,expert,candidate master,
+mostafa_fahim,Mostafa,Fahim,Egypt,Cairo,1762,1762,expert,expert,German University in Cairo
+eric16,Li,Min,China,Fuzhou,1761,1852,expert,expert,FuZhou university
+Doxer,,,Russia,Saint Petersburg,1760,1760,expert,expert,
+VIProgrammer,,,Romania,Bucharest,1760,1862,expert,expert,
+POJO,Dongfa,Huang,China,Nanchang,1758,1758,expert,expert,ECJTU
+alpczy,,,,,1758,1758,expert,expert,
+hacker,,,,,1756,1756,expert,expert,
+king.marl,,,,,1756,1756,expert,expert,
+pocztapirxa,,,Poland,,1756,1756,expert,expert,
+vigo,Aliaksandr,Baranau,Belarus,Minsk,1754,1754,expert,expert,
+P___,Przemek,Derengowski,Poland,Gdańsk,1753,2070,expert,candidate master,
+aechavarria,Ana,Echavarria,Colombia,Medellín,1753,1785,expert,expert,"Medellín, EAFIT"
+galileo,,,Ukraine,,1750,2018,expert,candidate master,
+igsilya,,,,,1750,1750,expert,expert,
+Odeen,Evgeny,Zamyatin,Russia,Saint Petersburg,1749,1998,expert,candidate master,ITMO University
+CooCoo,,,,,1748,1748,expert,expert,
+i_love_gold_and_nt,Vitaly,Butoma,Belarus,Mogilev,1748,1768,expert,expert,Belarussian SUIR
+gpac,,,Iran,Tehran,1746,1771,expert,expert,GPAC
+Zarg,,,,,1744,1905,expert,candidate master,
+ahmed_aly,Ahmed,Aly,Egypt,Cairo,1744,2150,expert,master,LinkedIn
+ray040123,Ray,Liang,China,Guangzhou,1744,1939,expert,candidate master,Sun Yat-Sen University
+shubhanshu,shubhanshu,agrawal,India,Hyderabad,1744,1868,expert,expert,
+Eugene,Eugene,Larchenko,Russia,Abakan,1743,1836,expert,expert,
+tomas.svab,,,Czechia,,1743,1848,expert,expert,
+experience257,Anubhav,Aggarwal,India,New Delhi,1742,1804,expert,expert,
+hgame,,,,,1742,1761,expert,expert,
+Mohamed.Bassem,Mohamed,Bassem,Egypt,Cairo,1741,1830,expert,expert,German University in Cairo
+ant.ermilov,Anton,Ermilov,Russia,Murmansk,1741,2021,expert,candidate master,ITMO University
+cmonkey,,,,,1741,1762,expert,expert,
+pakh,Pasha,Khosravi,United States,Irvine,1741,1784,expert,expert,
+utoppia,,,China,,1741,1935,expert,candidate master,
+wangjl_sdu,Rowen,Wang,China,Qingdao,1741,1741,expert,expert,Lucent
+JohnDeVostok,John,De Vostok,China,Tianjin,1739,1814,expert,expert,
+nanuy,,,,,1739,1739,expert,expert,
+atpec,,,,,1737,1737,expert,expert,
+stupidZZ,,,,,1737,1737,expert,expert,
+Yukari,,,,,1734,1770,expert,expert,
+Logvinov_Leon,Leon,Logvinov,Poland,Warsaw,1733,1988,expert,candidate master,quora inc
+shindannin,,,Japan,Kurihara,1733,1988,expert,candidate master,
+Sphinx,Xu,YuanHong,China,Chengdu,1731,2049,expert,candidate master,
+scientist1642,Zurabi,Isakadze,Georgia,Kutaisi,1731,1781,expert,expert,Tbilisi SU
+Ewelina131,Ewelina,Krakowiak,Poland,,1730,1824,expert,expert,
+KIDx,wang,jinhua,China,Guangzhou,1730,1752,expert,expert,
+yedong12,Dong,Ye,China,,1730,1730,expert,expert,
+sai16vicky,Sai,Vikneshwae,India,Coimbatore,1729,1824,expert,expert,Amrita Vishwa Vidyapeetham
+Tomik,,,Czechia,,1727,1750,expert,expert,
+buaabella,,,,,1727,1727,expert,expert,
+BryantMark,Bryant,Mark,China,Hangzhou,1726,1866,expert,expert,
+master_j,,,,,1726,1823,expert,expert,
+UESTC_Lovezym,,,,,1724,1724,expert,expert,
+walk_upon,,,,,1723,2056,expert,candidate master,
+adytp,,,Indonesia,Bandung,1721,1830,expert,expert,
+Icemore,Anton,Afanasev,Russia,Tomsk,1719,1986,expert,candidate master,Tomsk State University
+sicasli,Reinhart,Hermanus,Indonesia,Bandung,1719,1828,expert,expert,Addepar
+wil93,William,Di Luigi,Italy,Milan,1719,1801,expert,expert,Politecnico di Milano
+Nigga,Walter,Perez,Peru,Lima,1717,1717,expert,expert,Pontificia Universidad Católica del Perú
+Sultan,Egor,Shah,Russia,,1715,1882,expert,expert,
+liegunawan,Gunawan,Lie,Indonesia,Jakarta,1715,1715,expert,expert,
+silver__bullet,Xiangrui,Meng,China,Harbin,1714,1785,expert,expert,Harbin Engineering University
+Stirpar,,,,,1713,1806,expert,expert,
+ilona,Ilona,Papava,Russia,Moscow,1713,1836,expert,expert,Higher School of Economics
+riad,Muhammad,Nazmul Hasan,Bangladesh,Dhaka,1712,2272,expert,master,BUET
+mohammadro,Mohammad,Roghani,Iran,Karaj,1711,1737,expert,expert,Shahid Soltani S
+lemonwu,,,,,1709,1740,expert,expert,
+gh_ost,Sanzhar,Orazbayev,Kazakhstan,Aqtöbe,1708,1846,expert,expert,Khan Group
+mirob,,,Slovakia,,1708,2157,expert,master,
+SergeyLazarev,Sergey,Lazarev,Russia,Moscow,1707,2160,expert,master,
+Filins,Valery,Ozhiganov,Russia,Moscow,1706,1787,expert,expert,
+PolarNick,Nick,Polyarniy,Russia,Saint Petersburg,1705,1860,expert,expert,Agisoft
+HulkBuster,Kishwar,Shafin,,,1704,1781,expert,expert,
+PeterGriffin,Anuj,Kalia,India,New Delhi,1704,1879,expert,expert,Indian Institute of Technology Delhi
+jingg.cxy,Jing,Guan,China,Beijing,1702,1874,expert,expert,University of Chinese Academy of Sciences
+wind,Cold,wind,China,Chengdu,1701,1826,expert,expert,UESTC
+karan,Karan,Singh,India,Kanpur,1700,1700,expert,expert,
+bdep__,yh,yu,China,Tianjin,1697,1837,expert,expert,
+beyondxgb,Xie,GuoBiao,China,Guangzhou,1697,1785,expert,expert,South China Normal University
+yamateh,yamateh,yamateh,,,1693,1804,expert,expert,
+fairylights,,,China,,1692,1809,expert,expert,
+tiorted,,,Kazakhstan,,1690,1886,expert,expert,
+YshrDbrn,Yashar,Dabiran,Iran,Tehran,1689,1761,expert,expert,
+halfo,Hasib,Billah,,,1689,1889,expert,expert,
+Mars314,Qiang,Zhao,China,,1688,2185,expert,master,
+BigArcher,,,,,1685,1759,expert,expert,
+accidentallygivenfuck,Silap,Aliyev,Turkmenistan,,1684,2098,expert,candidate master,KAIST
+xiaoqiang01npc,,,China,,1684,1836,expert,expert,
+Omar.Darwish,Omar,Darwish,Egypt,Alexandria,1683,1827,expert,expert,
+Lebesgue,,,China,,1681,1774,expert,expert,
+dingshu,Shu,Ding,China,Wuhan,1680,2119,expert,master,Fudan University
+mustafij,Md. Mustafijur Rahman,Faysal,Bangladesh,Sylhet,1679,1791,expert,expert,
+ACMood,Linjie,Lee,China,Hangzhou,1677,2003,expert,candidate master,ZSTU
+urahara,Muntakim,Sadik,Bangladesh,Dhaka,1677,1889,expert,expert,BUET
+Berezin,Dmytro,Berezin,Ukraine,Kyiv,1675,1833,expert,expert,Kyiv NU
+wistful23,Dmitry,Filippov,United States,New York,1675,2006,expert,candidate master,
+Winnie_Pooh,,,,,1671,1709,expert,expert,
+moshiur,,,Bangladesh,,1671,2163,expert,master,
+xeronix,Vipul,Mehta,,,1668,1708,expert,expert,
+fitter,Shangxin,Yang,China,Fuzhou,1667,2095,expert,candidate master,
+HoangNguyen,,,,,1665,1734,expert,expert,
+asecret,Mixail,Kuzbac,Russia,Moscow,1665,1731,expert,expert,Moscow IPT
+max777alex,Maxim,Sannikov,Russia,Tomsk,1664,2001,expert,candidate master,Tomsk PU
+Androik,,,Russia,,1659,1937,expert,candidate master,
+Venia,Alex,Loiko,Sweden,Solna,1658,2011,expert,candidate master,
+qzhouayi,,,,,1654,1705,expert,expert,
+m7nika,Nikoloz,Gabisonia,Georgia,Tbilisi,1653,1864,expert,expert,Tbilisi SU
+EG0R,Egor,Bobyk,Ukraine,Kremenchuk,1651,1941,expert,candidate master,Uzhhorod NU
+bsrkaditya,Aditya,BSRK,India,Hyderabad,1651,1843,expert,expert,DA-IICT
+FurukawaNagisa,,,China,Qingdao,1650,1711,expert,expert,
+vanchope,Ivan,Pryvalov,Ukraine,,1650,1947,expert,candidate master,Universität des Saarlandes
+2009210656,a,a,,,1649,1752,expert,expert,
+safeasmilk,,,,,1648,1803,expert,expert,
+MMJ,Mohammad Mahdi,Jahanara,Iran,Yazd,1647,1762,expert,expert,"Sampad, Iran"
+kmatsunaga,,Matsunaga,Japan,,1647,1777,expert,expert,
+AmirAli,AmirAli,M,,,1645,1831,expert,expert,
+naagi,Natalya,Ginzburg,Russia,Saint Petersburg,1644,2183,expert,master,"Saint-Petersburg, PhML 30"
+worldhealer,,,,,1643,1783,expert,expert,
+Kipok,Igor,Gitman,Russia,Moscow,1640,1930,expert,candidate master,
+ealevel,,,,,1638,1735,expert,expert,
+shibly,Md. Maksud,Hossain,Bangladesh,Sylhet,1638,1864,expert,expert,Shahjalal University of Science and Technology
+Scalar,,,Russia,Kazan’,1637,1859,expert,expert,
+BOBAS,,,Lithuania,Vilnius,1632,1906,expert,candidate master,Vilnius University
+name,Songwong,Tasneeyapant,Thailand,Bangkok,1632,1853,expert,expert,
+SirCodeLight,,,,,1626,1775,expert,expert,
+nownikhil,,,India,,1626,1955,expert,candidate master,
+waitnote,Yiren,Wang,China,Wuxi,1621,1836,expert,expert,
+Horia,Horia,Crețescu,Romania,,1617,1978,expert,candidate master,
+eduard.piliposyan,Eduard,Piliposyan,Armenia,Yerevan,1608,1907,expert,candidate master,Russian-Armenian University
+BoBaH6eToH,,,Russia,Chelyabinsk,1603,1925,expert,candidate master,South Ural SU
+Frommi,Daniil,Liferenko,Israel,,1600,2118,expert,master,
+lvdo92,Luong Van,Do,Vietnam,Can Tho,1594,1781,specialist,expert,
+illay,Illya,Mazyriak,Ukraine,Lviv,1591,1706,specialist,expert,
+aitch_nu,harsh vardhan,gupta,India,Hyderabad,1587,1747,specialist,expert,
+aiMR,,,,,1584,2074,specialist,candidate master,
+NickAltair,Nikita,Liakhuta,Russia,Vladivostok,1580,1751,specialist,expert,FEFU
+zlbing,zeng,Lingbing,China,Shenyang,1577,1740,specialist,expert,Northeastern University
+Pavlo_Lviv_NU,Pavlo,Glova,Ukraine,Lviv,1566,1903,specialist,candidate master,
+.PEIN.,S. M. Ijaz-ul-Amin,Chowdhury,Bangladesh,Dhaka,1565,1750,specialist,expert,American International University Bangladesh
+chun10161991,Wai Chun,Law,Hong Kong,Hong Kong,1564,1761,specialist,expert,
+piyush006,Piyush,Kapoor,India,Lucknow,1564,1752,specialist,expert,Google
+Jami_CSEDU,Hasnain,Heickal,Bangladesh,Dhaka,1561,2128,specialist,master,University of Dhaka
+i_love_nam,Daniil,Dmitriev,Russia,Moscow,1560,1743,specialist,expert,
+baukaman,Bauyrzhan,Makhambetov,Kazakhstan,Almaty,1558,1913,specialist,candidate master,
+abhiranjan,Abhiranjan,Kumar,India,Bengaluru,1553,1795,specialist,expert,
+alpc126,,,China,Changsha,1550,1727,specialist,expert,National University of Defense Technology
+bly,billy,inn,China,Beijing,1545,1770,specialist,expert,BUPT
+alpc115,jack,lv,China,Changsha,1544,1990,specialist,candidate master,National University of Defense Technology
+fushar,Ashar,Fuadi,Indonesia,,1543,2219,specialist,master,
+emo,Md. Arifuzzaman,Arif,Bangladesh,Dhaka,1519,1892,specialist,expert,Google
+Schullz,Anton,Shapovalov,Russia,Petrozavodsk,1515,2096,specialist,candidate master,Petrozavodsk SU
+Hina_Maeda,,,China,Chengdu,1512,1874,specialist,expert,UESTC
+lightning,Aydar,Gizatullin,Russia,Saint Petersburg,1505,1945,specialist,candidate master,
+ergatis,,,United States,,1503,1958,specialist,candidate master,
+madlpx,,,China,Xi'an,1502,1768,specialist,expert,
+alper,Aleksey,Pertu,Russia,Moscow,1483,1847,specialist,expert,
+DenXX,Denis,Savenkov,United States,Seattle,1482,1900,specialist,candidate master,
+caustique,Igor,Demidov,Russia,Saint Petersburg,1481,2243,specialist,master,
+Vladl1313,Vlad,Sobin,Belarus,Brest,1468,1946,specialist,candidate master,
+Martial,,,France,Paris,1436,2041,specialist,candidate master,
+vlady,Vlad,Dumitriu,United States,,1421,2110,specialist,master,Google
+parina1,,,,,1417,2042,specialist,candidate master,
+Zugzug,Aleksandr,Maksimenko,Russia,Saint Petersburg,1404,1733,specialist,expert,KRFMLI
+Tune,KAILUN,WANG,Japan,Tokyo,1396,1730,pupil,expert,LINE Corporation
+Cromel,Yura,Danilchuk,Belarus,Hrodna,1393,2105,pupil,master,Grodno SU
+fegla,Mohamed,Abd El-Wahab,Egypt,Cairo,1392,1939,pupil,candidate master,FCI-Cairo university
+msh_shiplu,Shiplu,Hawlader,United States,Memphis,1372,1810,pupil,expert,University of Memphis
+khanhptnk,Khanh,Nguyen,Vietnam,Cao Lanh,1367,1955,pupil,candidate master,VNOI coders
+mystery_boy,,,Thailand,Bangkok,1317,1874,pupil,expert,
+DiegoAE,Diego A.,Agudelo España,Colombia,Pereira,1297,1843,pupil,expert,Universidad Tecnológica de Pereira
+Comrad,Yegor,Geraskin,Russia,Moscow,1279,1741,pupil,expert,Yandex
+gvalentiny,Valentin,Gubarev,Russia,Pskov,1225,1971,pupil,candidate master,PskovSU
+nokia,,,,,1196,1868,newbie,expert,

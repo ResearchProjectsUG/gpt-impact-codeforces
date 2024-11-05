@@ -1,0 +1,61 @@
+handle,first_name,last_name,country,city,rating,max_rating,rank,max_rank,organization
+Egor,Egor,Kulikov,Germany,Munich,2870,3235,international grandmaster,legendary grandmaster,JetBrains
+winger,Vladislav,Isenbaev,United States,Mountain View,2697,2697,international grandmaster,international grandmaster,Nuro.AI
+ilyakor,Ilya,Kornakov,Switzerland,Zurich,2655,2831,international grandmaster,international grandmaster,Google
+sdya,Dmytro,Soboliev,Ukraine,Kharkiv,2455,2797,grandmaster,international grandmaster,Kharkiv NU
+Seyaua,Ievgen,Soboliev,Ukraine,Kharkiv,2445,2490,grandmaster,grandmaster,Kharkiv NU
+RAD,Artem,Rakhov,Russia,Saratov,2426,2734,grandmaster,international grandmaster,Google
+mmaxio,Mikhail,Mayorov,Russia,Perm,2343,2850,international master,international grandmaster,
+Jokser,Pavel,Kovalenko,Kazakhstan,Almaty,2254,2277,master,master,Grid Dynamics
+ktuan,Anh Tuan,Khuc,Vietnam,Haiphong,2243,2315,master,international master,
+Fcdkbear,Mykhailo,Granik,Ukraine,Vinnytsia,2227,2340,master,international master,Vinnytsia NTU
+Nyatl,Pavel,Abizyaev,Russia,Izhevsk,2206,2206,master,master,
+mike,Michael,Kharitonov,Russia,Moscow,2191,2191,master,master,
+iakolzin,Ilia,Akolzin,Russia,Moscow,2190,2228,master,master,Yandex
+freopen,Aleksei,Zolotov,Switzerland,Zurich,2164,2164,master,master,Google
+gen,Evgeny,Vihrov,Latvia,Riga,2153,2317,master,international master,University of Latvia
+nk.karpov,Nikolai,Karpov,United States,Bloomington,2149,2226,master,master,Indiana University Bloomington
+slycelote,,,United States,Bellevue,2142,2403,master,grandmaster,
+ivan.popelyshev,Ivan,Popelyshev,Russia,Fryazino,2126,2568,master,grandmaster,Organization::Tesera.io
+mexmans,Mansur,Kutybayev,Kazakhstan,Almaty,2125,2516,master,grandmaster,Almaty IITU
+havaliza,Seyed Hamed,Valizadeh,Iran,Tehran,2068,2336,candidate master,international master,Sharif FUT
+shindo,Danil,Osherov,Russia,Perm,2016,2086,candidate master,candidate master,
+geka666,,,,,1968,1968,candidate master,candidate master,
+vsb,Viktor,Barinov,United States,Sunnyvale,1959,2248,candidate master,master,Lyft
+Edvard,Edvard,Davtyan,,,1953,2543,candidate master,grandmaster,
+KirillB,,,Russia,Arkhangelsk,1917,2114,candidate master,master,NARFU
+Medium,Max,Khodak,Russia,Sevastopol,1917,2092,candidate master,candidate master,
+ArtDitel,Artem,Verkhoglyadov,,,1914,2253,candidate master,master,pinely
+Xazker,Oleksandr,Barykin,Russia,Simferopol,1889,2176,expert,master,
+JKeeJ1e30,Sergei,Chumachenko,Russia,Saratov,1881,1947,expert,candidate master,Saratov State U
+Berestinsky,Denis,Berestinsky,Russia,Mytishchi,1862,1956,expert,candidate master,
+wangzhihao,,,,,1851,1953,expert,candidate master,
+ProjectYoung,Jianyang,PAN,China,Changzhou,1838,1918,expert,candidate master,Ecole Polytechnique
+GeLo,Oleg,Kharatsidi,Russia,Moscow,1808,1980,expert,candidate master,Moscow State University
+lwc626,Weichao,Luo,China,Shanghai,1781,1879,expert,expert,
+ryry56,,,,,1775,1925,expert,candidate master,
+Harta,Harta,Wijaya,Singapore,Singapore,1724,1724,expert,expert,
+wbdyni344,Nguyen Canh,Toan,Vietnam,Vinh,1716,1716,expert,expert,
+eldar,New login: trillioner,,,,1705,1705,expert,expert,
+ddrone,Andrew,Shulaev,United Kingdom,London,1703,1703,expert,expert,
+at1,Anton,Timofeev,Russia,Saint Petersburg,1692,1932,expert,candidate master,"Saint-Petersburg, PhML 30"
+barsuk1,,,,,1692,1692,expert,expert,
+MciprianM,Ninu Ciprian,Marginean,Romania,Cluj-Napoca,1624,1913,expert,candidate master,
+bolin.huang,,,,,1615,1649,expert,expert,
+ShadowDancer,Andrey,Serovikov,Russia,Perm,1591,1698,specialist,expert,
+e-not,,,Russia,,1564,1688,specialist,expert,
+demo,Pengcheng,Li,China,Guangzhou,1560,1652,specialist,expert,
+swcai,,,,,1523,1583,specialist,specialist,
+Imba-Coders,,,,,1489,1489,specialist,specialist,
+20092100003,,,,,1487,1574,specialist,specialist,
+stostap,Ostap,Stoliarchuk,Ukraine,,1472,1975,specialist,candidate master,Google
+liugang123,,,,,1463,1536,specialist,specialist,
+AVoz,,,Russia,Saint Petersburg,1443,1611,specialist,expert,
+fanxian,,,,,1426,1431,specialist,specialist,
+OSt,Oleg,Strekalovsky,Russia,Vologda,1419,1576,specialist,specialist,
+wikiblack,,,,,1393,1393,pupil,pupil,
+Melamori,Tatyana,Boychenko,Russia,Barnaul,1324,1684,pupil,expert,
+DELETED02,,,,,1317,1557,pupil,specialist,
+ErzhanDS,Yerzhan,Dyussenaliyev,Kazakhstan,Atyrau,1308,1872,pupil,expert,KBTU
+SyFy,Andrew,Shmig,Russia,Vladimir,1278,1556,pupil,specialist,
+vinayjulme,Vinay,Julme,India,Nagpur,974,1386,newbie,pupil,
