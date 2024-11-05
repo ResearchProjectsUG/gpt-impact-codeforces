@@ -161,7 +161,7 @@ def save_submissions_data(folder: str, submissions: List[Dict]):
 def save_user_data(folder: str, users: List[Dict]):
     """Save user data into a CSV file."""
     filename = os.path.join(folder, "users.csv")
-    with open(filename, "w", newline="") as file:
+    with open(filename, "w", newline="", encoding = "utf-8") as file:
         writer = csv.writer(file)
         writer.writerow(
             [

@@ -1,1 +1,0 @@
-curl https://codeforces.com/api/contest.list?gym=false >> data/raw/contest_list.json

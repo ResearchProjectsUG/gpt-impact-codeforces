@@ -135,6 +135,7 @@ def process_relevant_contests(client: CodeforcesClient):
 
     for contest in contests:
         if any(keyword in contest["name"] for keyword in relevant_keywords) and contest["phase"] == "FINISHED" and contest["id"] != 1014 and contest["id"] != 925 and not os.path.exists(os.path.join(settings.BASE_DATA_PATH, utils.create_slug(contest["name"]))):  # noqa
+            print("Processing data for", contest["name"], end = ": ")
             process_contest_data(client, contest["id"])
 
 
